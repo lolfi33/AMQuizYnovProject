@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Quel stratagème Mr. 2 utilise-t-il contre Sanji ?",
+    "options": [
+      "Il prend l'apparence de Zeff",
+      "Il utilise des illusions",
+      "Il prend l'apparence de Nami.",
+      "Il prend l'apparence d'une sirène"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quel est le point faible de Mr 2 ?",
+    "options": [
+      "Il ne peut se transformer que 10s",
+      "Il s'épuise très vite",
+      "Il aime trop les femmes",
+      "Il doit reprendre son apparence avant de frapper"
+    ],
+    "reponse": "4"
+  },  
+  {
+    "question": "Pourquoi Mr. 2 est ému à la fin du combat ?",
+    "options": [
+      "Car il pense que Sanji est son ami",
+      "Car c'est la premiere fois qu'il perd",
+      "Car Sanji est trop beau",
+      "Car il pense que Sanji est tombé amoureux"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Pourquoi Vivi veut-elle détruire le palais ?",
+    "options": [
+      "Pour attirer l'attention des rebelles",
+      "Pour montrer qu'ils se rendent",
+      "Pour détruire Pluton",
+      "Pour piéger Crocodile"
+    ],
+    "reponse": "1"
+  }, 
+  {
+    "question": "Comment s'appelle Miss Doublefinger ?",
+    "options": [
+      "Alice",
+      "Zala",
+      "Koala",
+      "Aye"
+    ],
+    "reponse": "2"
+  },    
+  {
+    "question": "Quel est le pouvoir de Miss Doublefinger ?",
+    "options": [
+      "Transformer son corps en pique",
+      "Se transformer en chacal",
+      "Se transformer en cactus",
+      "Avoir une peau glissante"
+    ],
+    "reponse": "1"
+  }, 
+  {
+    "question": "Comment fonctionne le clima-tact de Nami au début du combat?",
+    "options": [
+      "Il fait des attaques beaucoup trop puissante",
+      "Il semble fonctionner normalement",
+      "Il fait des attaques ridicule",
+      "Rien ne se passe"
+    ],
+    "reponse": "3"
+  },    
+  {
+    "question": "Que permet le clima-tact ?",
+    "options": [
+      "De bronzer tranquillement",
+      "De créer des mirages",
+      "De créer des grosses tempetes",
+      "Ramener la pluie à Alabasta"
+    ],
+    "reponse": "2"
+  },     
+  {
+    "question": "Comment s'appelle Mr. 1 ?",
+    "options": [
+      "Dori Lici",
+      "Daz Bonez.",
+      "Rob Lucci",
+      "Shaka"
+    ],
+    "reponse": "2"
+  },    
+  {
+    "question": "Quel est le pouvoir de Mr. 1 ?",
+    "options": [
+      "Transformer son corps en lame",
+      "Se transformer en chameau",
+      "Durcir so corps comme la roche",
+      "Avoir une force surhumaine"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Comment Zoro parvient-il à vaincre Mr. 1 ?",
+    "options": [
+      "En frappant son point faible",
+      "En entendant le souffle de l'acier",
+      "En utilisant une nouvelle technique de sabre",
+      "En faisant appel à Nami pour l'aider"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Zoro remercie Mr. 1 après leur combat ?",
+    "options": [
+      "Car il y a été mollo",
+      "Car il l'a aidé à progresser.",
+      "Car il ne s'était jamais battu contre quelqu'un de si fort",
+      "Car il a gagner un nouveau sabre"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Quel est le véritable objectif de Crocodile ?",
+    "options": [
+      "Capturer Vivi",
+      "Tuer le plus gens possible pour devenir plus puissant",
+      "Obtenir Pluton",
+      "Devenir roi."
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Qu'est ce que Pluton ?",
+    "options": [
+      "Un arme futuriste",
+      "Un ancien artéfact",
+      "Une planète",
+      "Une arme antique"
+    ],
+    "reponse": "4"
+  },  
+  {
+    "question": "Qui essaye de sauver Cobra et Vivi ?",
+    "options": [
+      "Les Tsumegeri",
+      "Pell",
+      "Smoker",
+      "Miss Allsunday"
+    ],
+    "reponse": "1"
+  },   
+  {
+    "question": "Comment les Tsumegeri meurent-ils ?",
+    "options": [
+      "Tuer par Crocodile",
+      "Apres avoir bu une eau dangereuse",
+      "Ils tombent du haut du palais",
+      "Après avoir ingurgité du poison"
+    ],
+    "reponse": "2"
+  },     
+  {
+    "question": "Quel est le surnom de Crocodile ?",
+    "options": [
+      "Le héros du peuple",
+      "Capitaine crochet",
+      "Le pirate du sable",
+      "Le corsaire au crochet"
+    ],
+    "reponse": "1"
+  },   
+  {
+    "question": "Que font les soldats quand les rebelles arrivent ?",
+    "options": [   
+      "Ils chargent les canons",
+      "Ils fuient",
+	  "Ils hissent le drapeau blanc",
+      "Ils se moquent d'eux"
+    ],
+    "reponse": "3"
+  },       
+  {
+    "question": "Comment Luffy fait t-il son retour ?",
+    "options": [
+      "Avec son gum gum bazooka",
+      "En étant obèse",
+      "Avec une armée de Kunf-fu-dugong",
+      "Sur le dos de Pell"
+    ],
+    "reponse": "4"
+  },    
+  {
+    "question": "Que fait Nami quand elle revoit Usopp ?",
+    "options": [
+      "Elle le frappe",
+      "Elle le remercie",
+      "Elle l'embrasse",
+      "Elle l'ignore"
+    ],
+    "reponse": "1"
+  }
+]

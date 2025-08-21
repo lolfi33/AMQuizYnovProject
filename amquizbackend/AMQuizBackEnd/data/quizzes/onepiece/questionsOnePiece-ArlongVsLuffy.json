@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Arlong est un homme poisson quoi ?",
+    "options": [
+      "Baleine",
+      "Dauphin",
+      "Requin",
+      "Saumon"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quel est le tatoutage d'arlong sur sa poitrine ?",
+    "options": [
+      "Un soleil",
+      "Une lune",
+      "Une étoile",
+      "Un bateau"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Que fait Luffy avec les dents d'Arlong pendant le combat ?",
+    "options": [
+      "Il le garde comme trophée",
+      "Il l'utilise pour mordre Arlong",
+      "Il le détruit avec ses poings",
+      "Il le jette à la mer"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Comment Luffy bloque-t-il l'attaque Shark on Darts d'Arlong ?",
+    "options": [
+      "En esquivant constamment",
+      "Avec un filet formé par ses doigts",
+      "En frappant Arlong avant qu'il ne charge",
+      "En utilisant une barque pour se protéger"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Arlong affirme qu'il peut mordre à nouveau après avoir perdu ses dents ?",
+    "options": [
+      "Parce qu'il n'a pas besoin de dents pour mordre",
+      "Parce qu'il peut renforcer sa mâchoire",
+      "Parce qu'il utilise des dentiers",
+      "Parce que ses dents repoussent"
+    ],
+    "reponse": "4"
+  },  
+  {
+    "question": "Que dit Arlong à Luffy à propos de la mâchoire humaine ?",
+    "options": [
+      "Elle est trop faible",
+      "Elle peut être renforcée avec des entraînements",
+      "Elle est moche",
+      "Elle est puissante"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Pourquoi Arlong dit-il qu'il est supérieur à Luffy dans l'eau ?",
+    "options": [
+      "Parce qu'il est plus rapide que la lumière",
+      "Parce qu'il est un homme-poisson",
+      "Parce qu'il connaît des techniques marines",
+      "Parce qu'il a une arme secrète"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Où se déroule la dernière partie du combat entre Luffy et Arlong ?",
+    "options": [
+      "Dans un bassin sous-marin",
+      "Au sommet d'une falaise",
+      "Dans la pièce où Nami dessinait des cartes",
+      "Sur un bateau échoué"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Luffy exprime-t-il sa détermination à protéger Nami ?",
+    "options": [
+      "En détruisant Arlong Park",
+      "En affrontant tous les hommes-poissons",
+      "En déclarant qu'elle est sa partenaire",
+      "En frappant directement Arlong"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Que hurle Luffy à Arlong à propos de Nami ?",
+    "options": [
+      "Elle est ma navigatrice !",
+      "Elle est à moi !",
+      "Elle est mon amie !",
+      "Elle n'est pas à toi !"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Qu'est-ce qui motive Luffy à vaincre Arlong malgré la difficulté du combat ?",
+    "options": [
+      "Le soutien des villageois",
+      "L'histoire tragique de Nami",
+      "La vengeance pour Zoro",
+      "La promesse faite à Zoro"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quelle arme Arlong utilise-t-il dans la dernière partie du combat ?",
+    "options": [
+      "Un bouclier piquant",
+      "Un harpon",
+      "Une scie en dents de requin",
+      "Un trident"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Que fait Luffy après avoir vaincu Arlong ?",
+    "options": [
+      "Il détruit entièrement Arlong Park",
+      "Il aide Nami à reconstruire le village",
+      "Il fait la fête avec les habitants",
+      "Il quitte immédiatement le village"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que mange Sanji pendant la fête ?",
+    "options": [
+      "Du jambon cru et du melon",
+      "De l'agneau et des frites",
+      "Des mandarines",
+      "Un sandwich au crabe"
+    ],
+    "reponse": "1"
+  },    
+  {
+    "question": "Pourquoi Zoro est-il soigné pendant la fête ?",
+    "options": [
+      "Parce qu'il s'est battu contre Arlong",
+      "Parce qu'il a été blessé",
+      "Parce qu'il a sauvé un villageois",
+      "Parce qu'il a été empoisonné"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Comment Nami rend hommage à Bell-mère avant de quitter le village ?",
+    "options": [
+      "Elle organise une cérémonie",
+      "Elle visite sa tomne",
+      "Elle plante un mandarinier",
+      "Elle laisse un message sur Arlong Park"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que y a-t-il sur la tombe de Bell-mère ?",
+    "options": [
+      "Une mandarine et un moulinet ",
+      "Une banane et une sacoche",
+      "Un livre et des lunettes",
+      "De l'argent et de l'acool"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Que dit Genzo a Luffy sur la tombe ?",
+    "options": [
+      "Il tuera Luffy si il fait perdre le sourire à Nami",
+      "Il le remercie encore pour tout ce qu'il a fait",
+      "Il le tabasse",
+      "Il lui dit de prendre soin de lui"
+    ],
+    "reponse": "1"
+  },    
+  {
+    "question": "Que décide Nami à la fin de l'arc d'Arlong Park ?",
+    "options": [
+      "De voyager seule",
+      "De former un équipage",
+      "De rejoindre l'équipage de Luffy",
+      "De rester dans son village"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Quelle coup Nami fait-elle aux villageois avant de partir ?",
+    "options": [
+      "Elle vole des mandarines",
+      "Elle part sans dire au revoir",
+      "Elle peint une carte moqueuse",
+      "Elle prend tout leur argent"
+    ],
+    "reponse": "4"
+  }
+]

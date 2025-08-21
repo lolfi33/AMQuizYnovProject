@@ -1,0 +1,8 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "cmake.ignoreCMakeListsMissing": true
+}

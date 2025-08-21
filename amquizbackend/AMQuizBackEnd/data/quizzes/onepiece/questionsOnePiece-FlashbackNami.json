@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Qui est Bell-mère pour Nami et Nojiko ?",
+    "options": [
+      "Leur tante éloignée",
+      "Leur mère adoptive",
+      "Leur amie d'enfance",
+      "Leur tutrice légale"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Arlong tue-t-il Bell-mère ?",
+    "options": [
+      "Parce qu'elle a insulté Arlong",
+      "Parce qu'elle ne pouvait pas payer",
+      "Parce qu'elle a attaqué un homme-poisson",
+      "Parce qu'elle a tenté de s'enfuir"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Nami est-elle devenue cartographe pour Arlong ?",
+    "options": [
+      "Pour espionner Arlong",
+      "Pour gagner de l'argent",
+      "Elle a été forcée à cause de son talent",
+      "Elle a été kidnappé"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quel est le montant que Nami doit réunir pour racheter son village ?",
+    "options": [
+      "50.000.000",
+      "100.000.000",
+      "200.000.000",
+      "10.000.000"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que font les villageois lorsqu'ils apprennent que Nami travaille pour Arlong ?",
+    "options": [
+      "Ils se révoltent immédiatement",
+      "Ils l'insulent",
+      "Ils décident de patienter en silence",
+      "Ils quittent le village"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Qui confisque les trésors de Nami après huit ans de collecte ?",
+    "options": [
+      "Arlong et ses hommes-poissons",
+      "Un groupe de pirates rivaux",
+      "Le capitaine Nezumi et ses soldats",
+      "L'équipage de Luffy"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Pourquoi les villageois décident-ils de se révolter contre Arlong ?",
+    "options": [
+      "Parce qu'ils croient que Nami les a trahis",
+      "Parce qu'ils ne supportent plus la tyrannie",
+      "Parce qu'Arlong a détruit leurs récoltes",
+      "Parce que Luffy leur a donné de l'espoir"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que fait Nami lorsqu'elle voit les villageois s'apprêter à combattre Arlong ?",
+    "options": [
+      "Elle appelle la Marine à l'aide",
+      "Elle fuit le village",
+      "Elle tente de les arrêter",
+      "Elle décide de les rejoindre"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Pourquoi Nami supplie-t-elle Luffy de l'aider ?",
+    "options": [
+      "Parce qu'elle est désespéré",
+      "Parce qu'Arlong l'a menacée",
+      "Parce qu'elle a perdu tout son argent",
+      "Parce qu'elle a la flemme"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que fait Luffy après que Nami lui demande de l'aide ?",
+    "options": [
+      "Il infiltre la base d'Arlong",
+      "Il attend un plan de Nojiko",
+      "Il donnt son chapeau a Nami",
+      "Il attaque immédiatement Arlong"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Contre qui Zoro se bat-il ?", 
+    "options": [
+      "Vilco",
+      "Octo",
+      "Nami",
+      "Genzo"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Contre qui Usopp se bat-il ?", 
+    "options": [
+      "Flop",
+      "Smack",
+      "Marto",
+      "Flika"
+    ],
+    "reponse": "2"
+  },    
+  {
+    "question": "Pourquoi Luffy est-il presque mort pendant le combat contre Arlong ?",
+    "options": [
+      "Il est encerclé par les hommes-poissons",
+      "Il est gravement blessé",
+      "Il est empoisonné",
+      "Il est coincé sous l'eau"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Qui tente de sauver Luffy lorsqu'il est coincé sous l'eau ?",
+    "options": [
+      "Genzo et Nojiko",
+      "Johnny et Yosaku",
+      "Zoro et Sanji",
+      "Nami et Usopp"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que fait Arlong pour convaincre Nami de revenir dans son équipe ?",
+    "options": [
+      "Il menace de tuer les villageois",
+      "Il menace de tuer Genzo",
+      "Il lui propose de ne pas attaquer le village",
+      "Il lui offre une grande somme d'argent"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quelle est la réponse de Nami lorsque Arlong lui propose un marché ?",
+    "options": [
+      "Elle accepte à contrecœur",
+      "Elle refuse catégoriquement",
+      "Elle demande plus de temps pour réfléchir",
+      "Elle propose un contre-marché"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Qui triomphe des 3 lieutnants d'Arlong pendant le combat ?",
+    "options": [
+      "Usopp et Genzo",
+      "Nami et Johnny",
+      "Luffy et Nojiko",
+      "Sanji, Zoro et Usopp"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Comment Usopp réussit-il à vaincre son adversaire ?",
+    "options": [
+      "Avec un sniper",
+      "Avec son lance-pierre",
+      "En le brulant",
+      "En appelant des renforts"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que fait Luffy immédiatement après être sorti de l'eau ?",
+    "options": [
+      "Il se repose",
+      "Il attaque Arlong",
+      "Il rassemble les villageois",
+      "Il demande à Nami de l'aider"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel est le rôle de Nojiko pendant le combat final contre Arlong ?",
+    "options": [
+      "Coordonner les villageois",
+      "Aider à sauver Luffy",
+      "Combattre directement Arlong",
+      "Protéger les trésors de Nami"
+    ],
+    "reponse": "2"
+  }
+]

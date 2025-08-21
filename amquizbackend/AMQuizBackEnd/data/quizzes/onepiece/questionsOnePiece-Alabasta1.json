@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Qui l'équipage pêche-t-il avant d'arriver à Albasta ?",
+    "options": [
+      "Bon Clay",
+      "Laboon",
+      "Octo",
+      "Miss Valentine"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment s'appelle le fruit du démon de Bon Clay ?",
+    "options": [
+      "Cara Cara no Mi",
+      "Mane Mane no Mi",
+      "Loki Loki no Mi",
+      "Tika Tika no Mi"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que font les mugiwaras pour ne pas se faire avoir par le pouvoir de Bon Clay ?",
+    "options": [
+      "Ils décident de ne pas se séparer",
+      "Il se déguisent",
+      "Il se tatouent leurs aliment préféré",
+      "Ils se nouent un bandage sur le poignet"
+    ],
+    "reponse": "4"
+  },  
+  {
+    "question": "Qui Luffy voit t-il dans un resto en arrivant à Alabasta ?",
+    "options": [
+      "Barbe blanche",
+      "Somker",
+      "Ace",
+      "Smoker et Ace"
+    ],
+    "reponse": "4"
+  },    
+  {
+    "question": "Qu'est ce qui dérange chopper à Alabasta ?",
+    "options": [
+      "Les parfums",
+      "Le soleil",
+      "La nourriture",
+      "La population"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment s'appelle le fruit du démon de Ace ?",
+    "options": [
+      "Hito Hito no Mi",
+      "Mera Mera no Mi",
+      "Fire Fire no Mi",
+      "Sik Sik no Mi"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Quel est le pouvoir de Ace ?",
+    "options": [
+      "L lave",
+      "Le feu",
+      "La fumée",
+      "Le sang"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Ace fait partie de quel équipage ?",
+    "options": [
+      "Mugiwara",
+      "Barbe noir",
+      "Barbe blanche",
+      "Shanks"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quel rôle occupe t-il au sein de cet équipage ?",
+    "options": [
+      "Commandant en 2nd",
+      "Commandant en 7eme",
+      "Commandant en 5eme",
+      "Commandant en chef"
+    ],
+    "reponse": "1"
+  }, 
+  {
+    "question": "Que donne Ace à Luffy ?",
+    "options": [
+      "Sa carte de vie",
+      "Sa carte de visite",
+      "Sa carte d'identité",
+      "Sa carte vitale"
+    ],
+    "reponse": "1"
+  },   
+  {
+    "question": "Quelle est un des atouts d'une carte de vie ?",
+    "options": [     
+      "Se reposer",
+	  "Connaître la santé de son propriétaire",
+      "Se soigner",
+      "Pouvoir parler aux personnes en possedant un morceau"
+    ],
+    "reponse": "2"
+  },      
+  {
+    "question": "Pourquoi Ace est il à Alabasta ?",
+    "options": [     
+      "Il cherche un nouveau fruit du démon",
+	  "Il cherche à recruter de nouveaux membres",
+      "Il cherche Barbe Noire",
+      "Il visite"
+    ],
+    "reponse": "3"
+  },     
+  {
+    "question": "Ou se reunissent les agents de Baroque Works ?",
+    "options": [     
+      "Dans la base de crocodile",
+	  "Dans une fete foraine",
+      "Au Spider's café",
+      "Au hot club"
+    ],
+    "reponse": "3"
+  },      
+  {
+    "question": "Qui est en réalité Paula, la bar-maid ?",
+    "options": [     
+      "Miss Doublefinger",
+	  "Vivi",
+      "Big Mom",
+      "Miss AlSunday"
+    ],
+    "reponse": "1"
+  },     
+  {
+    "question": "Qui se fait battre par un Kung-Fu Dugong à Elmar ?",
+    "options": [     
+      "Zoro",
+	  "Nami",
+      "Chopper",
+      "Usopp"
+    ],
+    "reponse": "4"
+  },  
+  {
+    "question": "Qu'est ce que la dance powder ?",
+    "options": [     
+      "Une poudre qui fait danser",
+	  "Une poudre qui rend heureux",
+      "Une poudre qui fait tomber la pluie",
+      "Une poudre qui sent bon"
+    ],
+    "reponse": "3"
+  }, 
+  {
+    "question": "Qui rencontre t-ils à Yuba ?",
+    "options": [     
+      "Toto",
+	  "Macron",
+      "Niglo",
+      "Mohamed"
+    ],
+    "reponse": "1"
+  }, 
+  {
+    "question": "Comment s'appelle le fils de Toto ?",
+    "options": [     
+      "Ponyo",
+	  "Koza",
+      "Kalu",
+      "Linca"
+    ],
+    "reponse": "2"
+  }, 
+  {
+    "question": "Comment s'appelle le clan de Koza ?",
+    "options": [     
+      "Le clan des sables",
+	  "Le clan des pyramides",
+      "Le clan du soleil",
+      "Le clan des scorpions"
+    ],
+    "reponse": "1"
+  }, 
+  {
+    "question": "Qui a créer Yuba ?",
+    "options": [     
+      "Vivi",
+	  "Crocodile",
+      "Toto",
+      "Mustapha"
+    ],
+    "reponse": "3"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Pourquoi Kaya était-elle malade ?",
+    "options": [
+      "À cause de son isolement et de la mort de ses parents",
+      "Elle a subi un traumatisme dans son enfance",
+      "Elle avait peur des pirates",
+      "Elle a été empoisonnée par Kuro"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quel est le plan final de Kuro ?",
+    "options": [
+      "Devenir le maire du village",
+      "Attaquer Grand Line avec son équipage",
+      "Prendre la richesse de Kaya et tuer son équipage",
+      "S'échapper avec Kaya comme otage"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Pourquoi Kuro laisse-t-il Usopp fuir après avoir entendu son plan ?",
+    "options": [
+      "Il veut piéger les villageois plus tard",
+      "Il sait que personne ne le croira",
+      "Il préfère se concentrer sur Kaya",
+      "Il aime bien le risque"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quels sont les noms des freres siamois ?", 
+    "options": [
+      "Buchi & Sham",
+      "Krapi & Clopo",
+      "Charou & Chaperlipopette",
+      "Koki et Flico"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Pourquoi Zoro est-il initialement coincé pendant l'attaque des pirates ?",
+    "options": [
+      "Il est capturé par les pirates",
+      "Il est pris dans une flaque d'huile",
+      "Il s'est perdu dans la forêt",
+      "Il est hypnotisé par Jango"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que fait Jango pour renforcer l'équipage de Kuro pendant le combat ?",
+    "options": [
+      "Il les hypnotise",
+      "Il leur donne des armes",
+      "Il invoque des renforts",
+      "Il utilise un fruit du démon"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment Luffy est-il arrêté pendant le combat contre Kuro ?",
+    "options": [
+      "Kuro le frappe",
+      "Il tombe dans un piège tendu par Usopp",
+      "Il est attacher avec des cordes",
+      "Jango l'hypnotise pour l'endormir"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Comment Kaya apprend-elle la vérité sur Krapador ?",
+    "options": [
+      "Jango trahit Kuro devant elle",
+      "Merry lui révèle la vérité",
+      "Usopp parvient à la convaincre",
+      "Elle trouve une lettre compromettante"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que fait Nami pour aider Zoro pendant son combat contre les frères Siamois ?",
+    "options": [
+      "Elle distrait les pirates",
+      "Elle lui tire ses épées",
+      "Elle attaque les pirates",
+      "Elle piège les frères Siamois avec de l'huile"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Kuro veut-il tuer Kaya ?",
+    "options": [
+      "Pour effrayer les villageois",
+      "Parce qu'elle a découvert son plan",
+      "Pour obtenir sa richesse via un testament",
+      "Pour effacer toute preuve de sa trahison"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Pourquoi Kaya signe t-elle le testament ?",
+    "options": [
+      "Pour vivre",
+      "Pour avoir l'esprit tranquille",
+      "Pour proteger les enfants",
+      "Pour enfin vivre une vie simple"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Pourquoi Luffy décide-t-il de combattre Kuro directement ?",
+    "options": [
+      "Il veut prouver sa force à Kaya",
+      "Kuro attaque Nami",
+      "Le manque de respect de Kuro envers son propre équipage",
+      "Usopp lui demande de se battre"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Luffy bat-il Kuro ?",
+    "options": [
+      "En détruisant son navire",
+      "Avec son Gomu Gomu no Kane",
+      "Avec un coup de poing direct",
+      "En utilisant un piège tendu par Nami"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que décide Usopp pour protéger les villageois après la défaite de Kuro ?",
+    "options": [
+      "De reconstruire les défenses du village",
+      "De garder l'attaque des pirates secrète",
+      "De quitter le village immédiatement",
+      "De rejoindre les Pirates du Chapeau de Paille"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel cadeau Kaya donne-t-elle aux Pirates du Chapeau de Paille après leur victoire ?",
+    "options": [
+      "Un coffre de trésors",
+      "Une carte de navigation",
+      "Un log pose pour Grand Line",
+      "Le navire Vogue Merry"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Pourquoi Usopp dissout-il son équipage de pirates ?",
+    "options": [
+      "Il a peur de Kuro",
+      "Les villageois le forcent à arrêter",
+      "Il veut voler de ses propres ailes",
+      "Kaya lui demande de rester pour la protéger"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Jango est-il finalement vaincu ?",
+    "options": [
+      "Par Luffy",
+      "Par Kaya",
+      "Par Zoro avec l'aide de Usopp",
+      "Par Nami avec l'aide des enfants"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quelle technique de Kuro attaque même ses propres hommes ?",
+    "options": [
+      "Shigan",
+      "Shakushi",
+      "Rankyaku",
+      "Kamisori"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Kuro prévoit-il de tuer tout son équipage après l'attaque ?",
+    "options": [
+      "Parce qu'il les considère comme inutiles",
+      "Pour impressionner Kaya",
+      "Pour effacer les témoins et commencer une nouvelle vie",
+      "Pour prouver qu'il est le plus fort"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que demande Luffy à Usopp à la fin de leur aventure au Village de Sirop ?",
+    "options": [
+      "De naviguer seul sur Grand Line",
+      "De rejoindre son équipage",
+      "De devenir le capitaine des Chapeaux de Paille",
+      "De protéger le village en son absence"
+    ],
+    "reponse": "2"
+  }
+]

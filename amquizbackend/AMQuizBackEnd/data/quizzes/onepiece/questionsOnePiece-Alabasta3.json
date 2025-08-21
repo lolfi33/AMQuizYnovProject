@@ -1,0 +1,193 @@
+[
+  {
+    "question": "Comment Chopper rejoint-ils les autres après qu'il se soient échappés ?",
+    "options": [
+      "Sous sa forme de cerf",
+      "Avec une dizaine de dromadaire",	  
+      "Avec une armée de Kaloo",
+      "Avec un crabe géant"
+    ],
+    "reponse":"4"
+  },
+  {
+    "question": "Pourquoi Luffy ne parvient-il pas à toucher Crocodile lors de leur combat ?",
+    "options": [
+      "Il est immunisé contre les attaques physiques",
+      "Il utilise des illusions pour esquiver",
+      "Il est protégé par une armure",
+      "Il est trop rapide pour Luffy"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Qu'est ce qui remplace la main gauche de Crocodile ?",
+    "options": [
+      "Un crochet",
+      "Une épée",
+      "Une rose",
+      "Un sablier"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Qui sauve Luffy des sables mouvants créés par Crocodile ?",
+    "options": [
+      "Pell",
+      "Miss All Sunday",
+      "Vivi",
+      "Karoo"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Miss All Sunday sauve-t-elle Luffy ?",
+    "options": [
+      "Pour qu'il combatte Crocodile.",
+      "Pour que Luffy manipule Baroque Works.",
+      "Elle veut tester les capacités de Luffy.",
+      "Elle est tombée amourseu"
+    ],
+    "reponse": "1"
+  },
+  
+  {
+    "question": "Qui rejoint l'équipage pour traverser rapidement le désert ?",
+    "options": [
+      "Les Kung-Fu Dugongs",
+      "L'Escadron des Super Colverts",
+      "L'Armée Rebelle",
+      "Les Pirates de Baroque Works"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "En combien de temps Usopp se fait-il battre par Mr 2 ?",
+    "options": [
+      "5 secondes",
+      "10 secondes",
+      "1 seconde",
+      "1 minute"
+    ],
+    "reponse": "3"	
+  },    
+  {
+    "question": "Quelle apparence Mr. 2 prend-il pour tromper Vivi ?",
+    "options": [
+      "Sanji",
+      "Usopp",
+      "Zoro",
+      "Nami"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel était le véritable signe de reconnaissance des Mugiwaras ?",
+    "options": [
+      "Un signe avec les doigts",
+      "Un mot",
+      "Un bandage",
+      "Un tatouage"
+    ],
+    "reponse": "4"	
+  },      
+  {
+    "question": "Quels ennemis Chopper et Usopp affrontent-ils ?",
+    "options": [
+      "Mr. 5 et Miss Valentine",
+      "Mr. 4 et Miss Merry Christmas",
+      "Mr. 3 et Miss Goldenweek",
+      "Mr. 2 et Mr. 9"
+    ],
+    "reponse": "2"	
+  },
+  {
+    "question": "Quelle est la stratégie utilisée par Mr. 4 et Miss Merry Christmas ?", 
+    "options": [
+      "Le basket ball peche au canard",
+      "Le football impérial",
+      "Le base ball tape taupe",
+      "Les illusions"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quel est l'arme de Mr. 4 ?",
+    "options": [
+      "Un bazooka",
+      "Un baton",
+      "Une cape",
+      "Un lance-pierre"
+    ],
+    "reponse": "1"	
+  }, 
+  {
+    "question": "Quel est la particularité de l'arme de Mr. 4 ?",
+    "options": [
+      "Elle a mangé un fruit du démon",
+      "Elle est extrêment lourde",
+      "Elle brille de mille feux au soleil",
+      "Elle peut se manger"
+    ],
+    "reponse": "1"	
+  },  
+  {
+    "question": "Que se passe t'il quand l'arme de Mr4 éternue ?",
+    "options": [
+      "Elle se transforme",
+      "Elle tire un obus",
+      "Elle tombe de ses mains",
+      "Elle tire une balle de baseball"
+    ],
+    "reponse": "4"	
+  },      
+  {
+    "question": "Quel poids le marteau d'Usopp veut il faire croire qu'il fait ?",
+    "options": [
+      "100 kg",
+      "5 tonnes",
+      "10 tonnes",
+      "10 grammes"
+    ],
+    "reponse": "2"	
+  },    
+  {
+    "question": "Quel point faible Chopper découvre-t-il chez leurs ennemis ?",
+    "options": [
+      "Leur lenteur",
+      "Leur dépendance aux fruit du démons",
+      "Tous les tunnels sont reliés entre eux",
+      "Leur faible endurance"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Quelle est la phrase préféré de Miss Merry Christmas ?",
+    "options": [
+      "Espèce d'ab'",
+      "Pov type",
+      "Macron démission !",
+      "Plus vite !!"
+    ],
+    "reponse": "1"
+  },    
+  {
+    "question": "Quels ennemis Zoro et Nami affrontent-ils ?",
+    "options": [
+      "Mr. 5 et Miss Valentine",
+      "Mr. 4 et Miss Merry Christmas",
+      "Mr. 1 et Miss Doublefinger",
+      "Mr. 2 et Mr. 9"
+    ],
+    "reponse": "3"	
+  }, 
+  {
+    "question": "Qui Sanji affronte t-il ?",
+    "options": [
+      "Mr. 1",
+      "Mr. 2",
+      "Mr. 3",
+      "Miss Merry Christmas"
+    ],
+    "reponse": "2"	
+  }
+]

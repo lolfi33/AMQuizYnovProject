@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Pourquoi Koza ne peut-il pas empêcher le chaos ?",
+    "options": [
+      "Des agents de Baroque Works ont infiltré les soldats et les rebelles",
+      "Il est capturé par Crocodile dès son arrivée",
+      "Il est gravement blessé par un soldat rebelle",
+      "La bombe explose avant qu'il puisse intervenir"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment Luffy neutralise le pouvoir de Crocodile ?",
+    "options": [
+      "En utilisant le clima-tact de Nami",
+      "Avec l'aide de pluton",
+	  "Avec un tonneau d'eau",	  
+      "En utilisant la dance powder"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quelle 'transformation' utilise Luffy contre Crocodile ?",
+    "options": [
+      "Maigre Luffy",
+      "Gear 3rd",
+	  "Gear 2nd",	  
+      "Aqua Luffy"
+    ],
+    "reponse": "4"
+  },  
+  {
+    "question": "Qui est vraiment Miss All Sunday ?",
+    "options": [
+      "Un grand corsair",
+      "Une colonel de la marine infiltré",
+      "Nico Robin",
+      "Nefertari Vovo"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Quel est le montant de la prime de Robin ?",
+    "options": [
+      "48 000 000",
+      "69 000 000",
+      "38 000 000",
+      "79 000 000"
+    ],
+    "reponse": "4"
+  },   
+  {
+    "question": "Pourquoi Luffy est-il couvert de sang lors de son combat contre Crocodile ?",
+    "options": [
+      "Il a subi de nombreuses blessures",
+      "Il utilise son sang pour annuler les pouvoirs de Crocodile",
+      "Il a été attaqué par des soldats rebelles",
+      "Il a absorbé le sang de Cobra"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Crocodile neutralise Miss All Sunday dans la crypte ?",
+    "options": [
+      "Car elle ne peut pas lire les ponéghyphes",
+      "Car il veut pluton uniquement pour lui",
+      "Car elle se rebelle",
+      "Car elle ne peut révéler l'emplacement du Pluton." 
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Qu'utilise Crocodile dans son dernier combat contre Luffy ?",
+    "options": [
+      "Du feu",
+	  "Du poison",	  
+      "Pluton",
+      "Il révèle son vrai pouvoir"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Qui garde l'emplacement de la bombe ?",
+    "options": [
+      "Mr. 7 et Miss FathersDay",
+      "Mr. 3 et Miss Goldenweek",
+      "Mr. 1 et Miss Doublefinger",
+      "Mr. 5 et Miss Valentine"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Combien de temps reste-t-il avant l'explosion lorsque la bombe est localisée ?",
+    "options": [
+      "5 min",
+      "10 min",
+      "10 sec",
+      "30 sec"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Avec quoi se battent Mr. 7 et Miss FathersDay ?",
+    "options": [
+      "Des sabres",
+      "Des bombes",
+      "Des pistolets",
+      "Des bonbons"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Comment les dangers de la bombe sont évités ?",
+    "options": [
+      "Vivi stop le compteur à temps",
+      "Pelle emmène la bombe",
+      "Elle a un problème et n'explose pas",
+      "Smoker contient l'explosion avec sa fumée"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Comment la guerre s'arrête-t-elle ?",
+    "options": [
+      "Grâce à la pluie",
+      "Grâce à l'explosion de la bombe",
+      "Grâce au discours de Vivi",
+      "Grâce au discours de Smoker"
+    ],
+    "reponse": "2"
+  },   
+  {
+    "question": "A qui le gouvernement mondial attribue le capture de Crocodile ?",
+    "options": [
+      "Vivi",
+      "Aux mugiwaras",
+      "Smoker",
+      "Pell"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Comment réagit Smoker en apprenant sa promotion ?",
+    "options": [
+      "Il est fou de joie",
+      "Il est en colère",
+      "Il n'a pas de réaction",
+      "Il pleure de joie"
+    ],
+    "reponse": "2"
+  }, 
+  {
+    "question": "Combien de temps Luffy a-t-il dormit ?",
+    "options": [
+      "3 jours",
+      "1 semaine",
+      "5 jours",
+      "8 heures"
+    ],
+    "reponse": "1"
+  }, 
+  {
+    "question": "Que font les mugiwaras après le festin ?",
+    "options": [
+      "Ils quittent Alabasta",
+      "Il re-font un festin",
+      "Ils prennent un bain",
+      "Ils font leur adieu à Vivi"
+    ],
+    "reponse": "2"
+  }, 
+  {
+    "question": "A combien s'élève la nouevelle prime de Luffy ?",
+    "options": [
+      "60 000 000",
+      "100 000 000",
+      "80 000 000",
+      "120 000 000"
+    ],
+    "reponse": "2"
+  },   
+  {
+    "question": "A combien s'élève la prime de Zoro ?",
+    "options": [
+      "60 000 000",
+      "100 000 000",
+      "80 000 000",
+      "120 000 000"
+    ],
+    "reponse": "1"
+  },    
+  {
+    "question": "Comment les mugiwaras disent-ils aurevoir à Vivi?",
+    "options": [
+      "En lui disant qu'ils l'aime",
+      "En faisant une blague",
+      "En se battant contre la marine",
+      "En montrant leurs tatouages"
+    ],
+    "reponse": "4"
+  }
+]

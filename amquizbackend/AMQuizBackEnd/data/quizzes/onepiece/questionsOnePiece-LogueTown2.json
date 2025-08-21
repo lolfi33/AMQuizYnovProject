@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Que se passe-t-il lorsque Baggy tente d'exécuter Luffy ?",
+    "options": [
+      "Zoro et Sanji le sauvent immédiatement",
+      "Un coup de tonnerre frappe l’échafaud",
+      "Luffy esquive le coup de Baggy",
+      "La Marine intervient pour arrêter Baggy"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Luffy survit-il à la foudre ?",
+    "options": [
+      "Parce qu'il est en caoutchouc",
+      "Parce qu'il est sauvé par Zoro",
+      "Parce qu'il évite le coup à temps",
+      "Parce qu'il est protégé par la tempête"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Qui est allié avec Baggy ?",
+    "options": [
+      "Alvida",
+      "Arlong",
+      "Don Krieg",
+      "Morgan"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Que fait Morge pendant la tempête ?",
+    "options": [
+      "Il fuit avec Baggy",
+      "Il essaye de brûler le navire",
+      "Il attaque la Marine",
+      "Il se cache sous un abri"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Comment Morge échoue-t-il dans son plan de brûler le navire ?",
+    "options": [
+      "Les Marines l'arrêtent",
+      "La pluie éteint les flammes",
+      "Usopp le combat et l'en empêche",
+      "Zoro intervient pour protéger le navire"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Que reproche Tashigi à Zoro pendant leur duel ?",
+    "options": [
+      "De se battre sans honneur",
+      "De fuir les Marines",
+      "De posséder des sabres sacrés alors que c'est un pirate",
+      "De casser ses lunettes"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment réagit Tashigi après avoir perdu contre Zoro ?",
+    "options": [
+      "Elle appelle des renforts",
+      "Elle le défie à nouveau",
+      "Elle est outrée qu'il l'épargne",
+      "Elle le remercie pour sa clémence"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quel sentiment traverse Tashigi après son duel avec Zoro ?",
+    "options": [
+      "La colère de se sentir sous-estimée",
+      "La fierté d'avoir affronté un grand épéiste",
+      "La peur de ne pas pouvoir progresser",
+      "L'envie de se venger immédiatement"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Que demande Luffy à Sanji lorsqu'ils rencontrent Smoker ?",
+    "options": [
+      "De l'aider à combattre Smoker",
+      "De partir devant",
+      "De récupérer Nami et Usopp",
+      "De protéger Zoro"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Comment Luffy échappe-t-il à Smoker ?",
+    "options": [
+      "Grâce à Dragon",
+      "En utilisant une nouvelle attaque",
+      "En étant sauvé par Sanji",
+      "En esquivant les attaques de Smoker"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que fait Dragon pour aider Luffy et ses compagnons ?",
+    "options": [
+      "Il distrait Smoker avec une explosion",
+      "Il neutralise la Marine avec ses pouvoirs",
+      "Il combat directement Baggy et ses hommes",
+      "Il fournit un navire pour leur fuite"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Que décide Smoker après la fuite de Luffy ?",
+    "options": [
+      "De renforcer la sécurité à Loguetown",
+      "De poursuivre Luffy sur Grand Line",
+      "De capturer les villageois pour l'attirer",
+      "De recruter Tashigi pour une nouvelle mission"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel est le rêve de Luffy ?",
+    "options": [
+      "De retrouver son frère Ace",
+      "De devenir le roi des Pirates",
+      "De protéger son équipage coûte que coûte",
+      "De battre tous les pirates de Grand Line"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel est le rêve de Zoro ?",
+    "options": [
+      "Devenir le meilleur épéiste du monde",
+      "De fonder un dojo",
+      "De battre Mihawk en duel",
+      "De protéger les sabres sacrés"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quel est le rêve de Sanji ?",
+    "options": [
+      "De protéger Nami coûte que coûte",
+      "De battre Zeff en cuisine",
+      "De devenir un célèbre chef pirate",
+      "De trouver All Blue"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Quel est le rêve de Nami ?",
+    "options": [
+      "De devenir riche",
+      "De cartographier les mers de Grand Line",
+      "De dessiner une carte du monde entier",
+      "De créer un atlas maritime"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quel est le rêve de Ussop ?",
+    "options": [
+      "De devenir un fier guerrier des mers",
+      "De devenir le meilleur tireur d'élite",
+      "De créer les meilleures armes",
+      "De raconter les plus grandes histoires"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que crie l'équipage avant de partir pour Grand Line ?",
+    "options": [
+      "Tous pour un, un pour tous !",
+      "En route pour Grand Line !",
+      "Apagnan !",
+      "À l'abordage !"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Smoker est-il intrigué par Luffy lors de l'exécution ?",
+    "options": [
+      "Parce qu'il a souri",
+      "Parce qu'il affronte Baggy sans peur",
+      "Parce qu'il s'échappe",
+      "Parce qu'il utilise un pouvoir mystérieux"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que fait Nami lorsqu'elle atteint le navire ?",
+    "options": [
+      "Elle cherche Luffy et Zoro",
+      "Elle prépare un plan de diversion",
+      "Elle lève l'ancre pour fuir",
+      "Elle répare les dégâts rapidement"
+    ],
+    "reponse": "3"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Pourquoi Johnny attaque-t-il Luffy au début de leur rencontre ?",
+    "options": [
+      "Parce que Zoro lui a ordonné",
+      "Parce que Luffy a volé son trésor",
+      "Parce que le rocher où se trouvait Yosaku a été détruit",
+      "Parce que Johnny croyait que Luffy était un pirate recherché"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Zoro connait-il Johnny et Yosaku ?",
+    "options": [
+      "Ils etaient collegues avant",
+      "Ils étaient amis",
+      "Ils sont cousins",
+      "Ils se sont deja battus"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Quelle maladie Nami diagnostique-t-elle chez Yosaku ?",
+    "options": [
+      "La grippe maritime",
+      "Le scorbut",
+      "L'empoisonnement au poisson",
+      "La fièvre tropicale"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi l'équipage décide-t-il de chercher un cuisinier ?",
+    "options": [
+      "Pour remplacer un cuisinier perdu",
+      "Pour préparer des repas et éviter des maladies",
+      "Parce que Luffy voulait manger des plats délicieux",
+      "Parce que Nami leur a suggéré d'en recruter un"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel est le nom du navire-restaurant mentionné par Johnny ?",
+    "options": [
+      "Baratie",
+      "Baratin",
+      "Barbeapapa",
+      "Barbant"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Qui est intrigué par le nom \"Œil de Faucon\" ?",
+    "options": [
+      "Usopp",
+      "Sanji",
+      "Luffy",
+      "Zoro"
+    ],
+    "reponse": "4"
+  },
+ {
+    "question": "Comment réagit le lieutenant Fullbody lorsqu'il rencontre Johnny et Yosaku ?",
+    "options": [
+      "Il les ignore complètement",
+      "Il les insulte en disant qu'ils s'occupent de menu fretin",
+      "Il leur propose de rejoindre la Marine",
+      "Il les félicite pour leur courage"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Qu'est-ce que Luffy fait avec le boulet de canon tiré par le bateau de la Marine ?",
+    "options": [
+      "Il le détruit avec un Gomu Gomu no Pistol",
+      "Il le renvoie sur le navire de la Marine",
+      "Il l'envoie accidentellement sur le Baratie",
+      "Il le laisse tomber dans la mer"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Luffy compense-t-il les dégâts causés au Baratie ?",
+    "options": [
+      "En travaillant quelques jours dans le restaurant",
+      "En cirant les pompes du chef",
+      "En réparant le navire lui-même",
+      "En donnant un trésor"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment Sanji traite-t-il Nami lorsqu'elle demande de la nourriture ?",
+    "options": [
+      "Il lui offre un repas gratuit",
+      "Il demande un paiement supplémentaire",
+      "Il refuse catégoriquement",
+      "Il l'ignore complètement"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Qui est le maître-cuisinier du Baratie ?",
+    "options": [
+      "Johnny",
+      "Gin",
+      "Sanji",
+      "Zeff"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Comment Sanji réagit-il face au lieutenant Fullbody ?",
+    "options": [
+      "Il lui donne une correction",
+      "Il le défie en duel",
+      "Il s'excuse devant lui",
+      "Il l'invite à déjeuner"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Pourquoi Gin remercie-t-il Sanji ?",
+    "options": [
+      "Sanji l'a aidé à échapper à la Marine",
+      "Sanji lui a donné à manger gratuitement",
+      "Sanji l'a soigné après une blessure",
+      "Sanji lui a donné un emploi au Baratie"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Sanji donne-t-il à manger gratuitement à Gin ?",
+    "options": [
+      "Parce qu'il pense qu'il faut nourir tout ceux qui ont faim",
+      "Parce qu'il veut impressionner Luffy",
+      "Parce qu'il a peur de Don Krieg",
+      "Parce qu'il est obligé par Zeff"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Quelle est la spécialité du Baratie ?",
+    "options": [
+      "C'est un navire de pêche",
+      "C'est une base de la Marine",
+      "C'est un bateau de chasseurs de primes",
+      "C'est un navire-restaurant"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Pourquoi Luffy demande-t-il à Sanji de rejoindre son équipage ?",
+    "options": [
+      "Parce que Sanji connaît Grand Line",
+      "Parce qu'il veut un combattant supplémentaire",
+      "Parce qu'il est un excellent cuisinier",
+      "Parce que Nami le lui a suggéré"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Est ce que Sanji accepte de rejoindre Luffy directement ?",
+    "options": [
+      "Si Nami accepte de l'épouser oui",
+      "Oui",
+      "Non",
+      "Jamais de la vie"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Comment Nami obtient-elle des repas gratuits au Baratie ?",
+    "options": [
+      "En mentant sur son identité",
+      "En séduisant Sanji",
+      "En utilisant l'argent de Luffy",
+      "En négociant avec Zeff"
+    ],
+    "reponse": "2"
+  },
+    {
+    "question": "Que sert Sanji à Nami ?",
+    "options": [
+      "Du thé",
+      "Une salade de fruit",
+      "De la choucroute",
+      "De la bière"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Qui est Gin ?",
+    "options": [
+      "Un chasseur de primes célèbre",
+      "Un chef cuisinier du Baratie",
+      "Un officier de la Marine",
+      "Le bras droit de Don Krieg"
+    ],
+    "reponse": "4"
+  }
+]

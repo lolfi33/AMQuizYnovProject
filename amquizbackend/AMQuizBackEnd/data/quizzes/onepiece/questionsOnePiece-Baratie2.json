@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Qui détruit le navire de Don Krieg en le coupant en deux ?",
+    "options": [
+      "Zoro",
+      "Luffy",
+      "Gin",
+      "Dracule Mihawk"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Pourquoi Zoro défie-t-il Mihawk ?",
+    "options": [
+      "Pour protéger Sanji",
+      "Pour obtenir une nouvelle épée",
+      "Pour prouver qu'il est le meilleur épéiste",
+      "Parce que Luffy le lui demande"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que Zoro dit-il à Mihawk à la fin de leurs combat ?",
+    "options": [
+      "Bravo champion",
+      "Une blessure dans le dos est une honte pour un épéiste",
+      "La prochaine fois, je ramène mes copains",
+      "Je ne te pardonnerai jamais pour ça"
+    ],
+    "reponse": "2"
+  },
+   {
+    "question": "Quelle promesse Zoro fait-il à Mihawk après leur combat ?",
+    "options": [
+      "Qu'il protégera Luffy coûte que coûte",
+      "Qu'il retrouvera une meilleure épée",
+      "Qu'il n'abandonnera jamais l'équipage",
+      "Qu'il le surpassera un jour"
+    ],
+    "reponse": "4"
+  }, 
+  {
+    "question": "Que va faire Mihawk après le combat ?",
+    "options": [
+      "S'entrainer",
+      "Une sieste",
+      "Manger",
+      "Aller voir des femmes"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Pourquoi Gin refuse-t-il de tuer Sanji ?",
+    "options": [
+      "Parce qu'il veut épargner le Baratie",
+      "Parce qu'il n'aime pas Don Krieg",
+      "Parce que Sanji a été gentil avec lui",
+      "Parce qu'il craint la vengeance de Zeff"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que fait Don Krieg lorsque Gin refuse de tuer Sanji ?",
+    "options": [
+      "Il frappe Gin avec sa lance",
+      "Il lâche un gaz mortel",
+      "Il abandonne le combat",
+      "Il détruit le Baratie"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Avec quoi se bat Gin", 
+    "options": [
+      "Des épées",
+      "Un fusil",
+      "Des Tonfas",
+      "Des boucliers"
+    ],
+    "reponse": 3
+  },
+    {
+    "question": "Comment Gin est-il empoisonné ?",
+    "options": [
+      "En retirant son masque à gaz",
+      "En buvant de l'eau empoisonnée",
+      "En mangeant un fruit contaminé",
+      "En se blessant avec la lance de Don Krieg"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Quelle est la particularité de la lance de Don Krieg ?",
+    "options": [
+      "Elle explose à chaque impact",
+      "Elle libère un gaz toxique",
+      "Elle est en mousse",
+      "Elle se transforme en canon"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment Luffy détruit-il la lance de Don Krieg ?",
+    "options": [
+      "En la jetant à la mer",
+      "En l'échangeant contre une autre arme",
+      "En frappant dessus plusieurs fois",
+      "En utilisant un Gomu Gomu no Pistol"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Pourquoi Don Krieg pense-t-il que son armure est invincible ?",
+    "options": [
+      "Parce qu'elle est un cadeau de Mihawk",
+      "Parce qu'elle est renforcée par un fruit du démon",
+      "Parce qu'elle est faite de Wootz",
+      "Parce qu'elle a résisté à tous les combats"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Luffy détruit-il l'armure de Don Krieg ?",
+    "options": [
+      "En l'échangeant contre une épée",
+      "Avec Gomu Gomu no LanceRoquette",
+      "Avec un Gomu Gomu no Bazooka",
+      "En la chauffant pour la faire fondre"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que fait Don Krieg avant de tomber dans l'eau ?",
+    "options": [
+      "Il donne l'ordre de retraite à son équipage",
+      "Il lance un filet pour piéger Luffy",
+      "Il jette une bombe sur le ponton",
+      "Il tente de détruire le Baratie"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Ou a grandit Pearl ?", 
+    "options": [
+      "Dans une grande ville+",
+      "Dans les montagnes",
+      "Dans la jungle",
+      "A la mer"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Avec quoi se bat Pearl", 
+    "options": [
+      "Des épées",
+      "Ses poings",
+      "Des boucliers",
+      "Des dagues"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que fait Sanji lorsque Luffy tombe à l'eau après avoir vaincu Don Krieg ?",
+    "options": [
+      "Il crie pour attirer les autres cuistots",
+      "Il plonge pour le sauver",
+      "Il demande à Zeff de le repêcher",
+      "Il utilise une corde pour le remonter"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quelle est la réaction de Gin après la défaite de Don Krieg ?",
+    "options": [
+      "Il attaque Zeff pour se venger",
+      "Il est choqué que son capitaine ait été vaincu",
+      "Il prend le commandement de l'équipage",
+      "Il s'enfuit en abandonnant son capitaine"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Qu'est-ce qui impressionne tout le monde pendant le combat entre Luffy et Don Krieg ?",
+    "options": [
+      "Les stratégies complexes de Don Krieg",
+      "La détermination et le courage de Luffy",
+      "La puissance de Don Krieg",
+      "L'intervention de Mihawk"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Don Krieg voulait-il le carnet de bord de Zeff ?",
+    "options": [
+      "Pour vendre le carnet au marché noir",
+      "Pour apprendre les recettes du Baratie",
+      "Pour recruter Sanji dans son équipage",
+      "Pour naviguer sur Grand Line"
+    ],
+    "reponse": "4"
+  }
+]

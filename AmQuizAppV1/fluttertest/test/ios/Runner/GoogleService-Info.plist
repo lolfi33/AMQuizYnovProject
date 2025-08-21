@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>56743880829-ecnok4pdpeetevkvs545r172jr3mbq0d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.56743880829-ecnok4pdpeetevkvs545r172jr3mbq0d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>56743880829-c667s63i8cp5gt6l7s1oi7qaqvt4dshl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDq1AN2YcGlhXXXvZ-HaWJ8llD5k4Iy5kk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>56743880829</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>lolfi33test</string>
+	<key>PROJECT_ID</key>
+	<string>amquizapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>amquizapp.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:56743880829:ios:e49dafbfb85b5ec1976914</string>
+</dict>
+</plist>

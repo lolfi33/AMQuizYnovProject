@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Pourquoi les mugiwaras doivent faire un détour avant d'arriver à alabasta ?",
+    "options": [
+      "Car il y a une tempête",
+      "Car les marines les attendent",
+      "Car Nami est gravement malade",
+      "Car ils n'ont plus de provisions"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quelle est la particularité du bateau pirate qu'ils rencontrent en chemin ?",
+    "options": [
+      "C'est un bateau volant",
+      "Il est tout en or",
+      "Il est tout petit",
+      "C'est un navire sous marin"
+    ],
+    "reponse": "4"
+  },  
+  {
+    "question": "Qui est le capitaine de ce bateau?",
+    "options": [
+      "Wapol",
+      "Ener",
+      "Capol",
+      "Drum"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Quel est le pouvoir de Wapol?",
+    "options": [
+      "Il peut manipuler le feu",
+      "Il peut changer de taille",
+      "Il peut se transformer en métal",
+      "Il peut manger n'importe quoi et l'intégrer à son corps"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Comment sont acceuilis les mugiwaras sur l'île de Drum ?",
+    "options": [
+      "Par une fête",
+      "Ils se font menacer",
+      "Il n'y a personne",
+      "Par des zombies"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Quelle était la politique médicale de Wapol ?",
+    "options": [
+      "Imposer une taxe pour tout soin",
+      "Bannir tous les medecins et en garder 20 pour lui",
+      "Soigner uniquement les animaux",
+      "Soigner uniquement les nobles"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Wapol a quitté Drum ?",
+    "options": [
+      "Il s'est fait chasser par son peuple",
+      "Il voulait conquérir d'autres îles",
+      "Il s'est perdu en mer",
+      "A cause de Barbe Noire"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Quel âge à le Dr. Kureha ?",
+    "options": [
+      "10 ans",
+      "120 ans",
+      "140 ans",
+      "130 ans"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Quels animaux Luffy et Sanji rencontrent-ils en gravissant la montagne ?",
+    "options": [
+      "Des ours polaires",
+      "Des lapins géants des neiges",
+      "Des aigles géants",
+      "Des loups des montagnes"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Luffy doit-il escalader seul la montagne ?",
+    "options": [
+      "La neige est trop profonde",
+      "Sanji est blessé",
+      "Sanji drague la la Dr Kureha",
+      "Nami refuse de marcher"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel fruit du démon Chopper a-t-il mangé ?",
+    "options": [
+      "Le Tori Tori no Mi",
+      "Le Hito Hito no Mi",
+      "Le Zou Zou no Mi",
+      "Le Inu Inu no Mi"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel pouvoir à Chopper ?",
+    "options": [
+      "Il peut soigner les maladies",
+      "Il peut se transformer en humain",
+      "Il manie la barbe à papa",
+      "Il n'a pas de pouvoir"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Pourquoi Chopper était exclu quand il était un renne ?",
+    "options": [
+      "Car il était handicapé",
+      "Car il était tout petit",
+      "Car il avait le nez bleu",
+      "Car son pelage était jaune"
+    ],
+    "reponse": "3"
+  },    
+  {
+    "question": "Qui etait le mentor de Chopper ?",
+    "options": [
+      "Le Dr. Hiluluk",
+      "Le Dr. Bayrou",
+      "Le Dr. Caribou",
+      "Le Dr. Hilkou"
+    ],
+    "reponse": "1"
+  },    
+  {
+    "question": "Quel était le surnom donné au Dr. Hiluluk par les habitants ?",
+    "options": [
+      "Le sorcier",
+      "Le guérisseur",
+      "Le charlatan",
+      "Le héros"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que faisait le Dr. Hiluluk malgré son impopularité ?",
+    "options": [
+      "Il soignait les malades de Drum",
+      "Il créait un vaccin universel",
+      "Il former de nouveaux médecins",
+      "Il aidait Wapol à contrôler l'île"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Pourquoi le Dr. Hiluluk expulse-t-il Chopper ?",
+    "options": [
+      "Il veut cacher sa maladie incurable",
+      "Chopper a volé son équipement",
+      "Chopper a commis une grave erreur",
+      "Il pense que Chopper est dangereux"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que tente de faire Chopper pour sauver Hiluluk ?",
+    "options": [
+      "Créer un médicament spécial",
+      "Demander à Luffy de l'emmener à un autre médecin",
+      "Trouver un champignon rare",
+      "Convaincre Dr. Kureha de l'aider"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Pourquoi Hiluluk décide-t-il d'aller à la rencontre de Wapol malgré sa maladie ?",
+    "options": [
+      "Pour affronter Dalton",
+      "Pour protéger le pays et son peuple",
+      "Pour obtenir un médicament",
+      "Pour rejoindre les Toubibs 20"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel était le rêve du Dr Hiluluk ?",
+    "options": [
+      "Créer une armée de medecin",
+      "Créer des cerisiers fleurissant dans la neige",
+      "Rendre à Chopper sa forme originel",
+      "Etre le meilleur médecin"
+    ],
+    "reponse": "2"
+  }
+]

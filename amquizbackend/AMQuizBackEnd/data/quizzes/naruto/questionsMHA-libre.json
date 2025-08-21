@@ -1,0 +1,334 @@
+[ 
+       {
+            "oeuvre": "My Hero Academia",
+            "question": "Au test d'aptitude des alters de Yuei, Izuku se classe :",
+            "options": [
+                "3ème",
+                "16ème",
+                "20ème",
+                "11ème"              
+            ],
+            "reponse": "3"
+        },
+        {
+            "oeuvre": "My Hero Academia",
+            "question": "Izuku active le One for All pour la première fois pour sauver :",
+            "options": [
+                "Bakugo",
+                "Sa mère",
+                "Ochaco",
+                "All Might"              
+            ],
+            "reponse": "3"
+        },
+        {
+            "oeuvre": "My Hero Academia",
+            "question": "Quel est le surnom de Izuku ?",
+            "options": [
+                "Midoriya",
+                "Haiku",
+                "Deku",
+                "Zuzu"              
+            ],
+            "reponse": "3"
+        },
+        {
+            "oeuvre": "My Hero Academia",
+            "question": "Quel est le nom de héros de Ochako Uraraka ?",
+            "options": [
+                "Uravity",
+                "Gravity",
+                "Urakaka",
+                "Gravity "              
+            ],
+            "reponse": "1"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Quel est l'Alter de Mei Hatsume ?",
+            "options": [
+                "Cible",
+                "Création",
+                "Zoom",
+                "Glisse "              
+            ],
+            "reponse": "3"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Quel est le péché mignon de Minoru Mineta ?",
+            "options": [
+                "La nourriture",
+                "Les jeux vidéos",
+                "Les siestes",
+                "Les filles"              
+            ],
+            "reponse": "4"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Comment Shoto a-t-il reçu sa cicatrice ?",
+            "options": [
+                "Son père l’a brûlé avec son alter",
+                "Sa mère l’a brûlé avec de l’eau bouillante",
+                "Il a sauté dans le feu pour sauver sa mère",
+                "Il s’est brûlé avec son propre alter"              
+            ],
+            "reponse": "2"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Quelle est la soi-disant nationalité de Yuga ?",
+            "options": [
+                "Italienne",
+                "Canadienne",
+                "Chinoise",
+                "Française "              
+            ],
+            "reponse": "4"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Comment s'appelle l'attaque spéciale de Tenya Iida ?",
+            "options": [
+                "Ingenium",
+                "Recipro burst",
+                "Il n’en a pas",
+                "Ingenior "              
+            ],
+            "reponse": "2"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Quelle est la condition pour que l'Alter de Momo fonctionne ?",
+            "options": [
+                "Elle doit connaître la composition de l’objet",
+                "Elle doit avoir déjà touché l’objet",
+                "Elle doit visualiser l’objet dans son esprit",
+                "Elle doit fermer les yeux "              
+            ],
+            "reponse": "1"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Quand est-il plus facile pour Fumikage de contrôler Dark Shadow ?",
+            "options": [
+                "La nuit",
+                "Le jour",
+                "Quand il est fatigué",
+                "Quand il est en forme "              
+            ],
+            "reponse": "2"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Quand est-ce que le Dark Shadow de Fumikage est-il le plus puissant ?",
+            "options": [
+                "Quand il fait jour",
+                "Quand il fait sombre",
+                "Quand il a faim",
+                "Quand il est en colère "              
+            ],
+            "reponse": "2"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Qui est le professeur principal de la seconde B ?",
+            "options": [
+                "Shota Aizawa (Eraser Head)",
+                "All Might",
+                "Midnight",
+                "Vlad King "              
+            ],
+            "reponse": "4"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Qui est le professeur principal de la seconde A ?",
+            "options": [
+                "Shota Aizawa (Eraser Head)",
+                "All Might",
+                "Midnight",
+                "Vlad King "              
+            ],
+            "reponse": "1"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Que permet l’alter de Shota Aizawa (Eraser Head) ?",
+            "options": [
+                "D’annuler l'alter d’une autre personne en regardant l’utilisateur",
+                "D’annuler l'alter d’une autre personne en pensant à l’utilisateur",
+                "D’effacer la mémoire d’une autre personne en la regardant",
+                "D’effacer la mémoire d’une autre personne en pensant à elle "              
+            ],
+            "reponse": "1"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": " L’utilisation de l’alter de Shota Aizawa (Eraser Head) lui fait : ",
+            "options": [
+                "Trembler ses yeux",
+                "Léviter ses bras",
+                "Trembler ses mains",
+                "Léviter ses cheveux "              
+            ],
+            "reponse": "4"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Que permet l’alter de Nezu (Principal de Yuei) ?",
+            "options": [
+                "De se transformer en souris",
+                "D’avoir les mêmes capacités cérébrales qu’un humain (parole, intelligence, etc)",
+                "De se transformer en ours blanc",
+                "D’avoir une intelligence supérieure qui surpasse celle des humains"              
+            ],
+            "reponse": "4"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Avant de devenir le principal du lycée Yuei, Nezu était :",
+            "options": [
+                "Vétérinaire",
+                "Un animal de compagnie",
+                "Un cobaye (non volontaire) pour la science",
+                "Un scientifique qui faisait des expériences sur des souris "              
+            ],
+            "reponse": "3"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Que permet l’alter de  Recovery Girl (Infirmière de Yuei) ?",
+            "options": [
+                "D’amplifier et d’accélérer le processus naturel de guérison du corps humain",
+                "De guérir instantanément les blessures",
+                "De donner de son énergie vitale pour soigner les autres",
+                "De ralentir la progression de poison/maladie dans le corps "              
+            ],
+            "reponse": "1"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Qui est le créateur de My Hero Academia?",
+            "options": [
+                "Eiichiro Oda",
+                "Hajime Isayama",
+                "Kōhei Horikoshi",
+                "Masashi Kishimoto "              
+            ],
+            "reponse": "3"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Quelle est la particularité du pouvoir de Fumikage Tokoyami ?",
+            "options": [
+                "Il peut créer des explosions",
+                "Il peut devenir invisible",
+                "Il peut se transformer en animal",
+                "Il peut contrôler un monstre d’ombre "              
+            ],
+            "reponse": "4"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Après qu’All Might annonce qu’il ne sera plus un super héros, qui devient le numéro 1 ?",
+            "options": [
+                "Best Jeanist",
+                "Endeavor",
+                "Hawks",
+                "Eraserhead "              
+            ],
+            "reponse": "2"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Qui est le mentor de All Might ?",
+            "options": [
+                "Present mic",
+                "All For One",
+                "Nezu",
+                "Gran Torino "              
+            ],
+            "reponse": "4"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Quel est le nom de l’école des héros ou se rend Izuku ?",
+            "options": [
+                "Yuei",
+                "Kamino High",
+                "Tokyo Hero School",
+                "Shiketsu High "              
+            ],
+            "reponse": "1"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Quel est le nom du héros qui annule les pouvoirs des autres ?",
+            "options": [
+                "Midnight",
+                "Eraserhead",
+                "Present Mic",
+                "Mirio "              
+            ],
+            "reponse": "2"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Qui possède un alter lui permettant d’extrêmement durcir ses muscles ?",
+            "options": [
+                "Eijiro Kirishima",
+                "Minoru Mineta",
+                "Bakugo",
+                "All Might"              
+            ],
+            "reponse": "1"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "L’alter de Eijiro Kirishima lui permet de :",
+            "options": [
+                "Augmenter sa force",
+                "Doublé la taille de ses muscles",
+                "Durcir ses muscles",
+                "Transformer son corps en pierre "              
+            ],
+            "reponse": "3"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Combien y a-t-il d’élèves dans la seconde A de Yuei ?",
+            "options": [
+                "25",
+                "15",
+                "20",
+                "30 "              
+            ],
+            "reponse": "3"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Quel est le rôle de Mei Hatsume à Yuei ?",
+            "options": [
+                "Etudiante filière assistance",
+                "Etudiante filière héros",
+                "Prof",
+                "Etudiante filière générale "              
+            ],
+            "reponse": "1"
+        },
+		{
+            "oeuvre": "My Hero Academia",
+            "question": "Combien y a-t-il d’élèves dans la seconde A de Yuei ?",
+            "options": [
+                "25",
+                "15",
+                "20",
+                "30 "              
+            ],
+            "reponse": "3"
+        }
+
+		
+]

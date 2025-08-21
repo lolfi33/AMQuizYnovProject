@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Par qui Luffy est-il sauvé après avoir été aspiré par un tourbillon ?",
+    "options": [
+      "Par un navire de la Marine",
+      "Par un équipage de pirates",
+      "Par un pêcheur du village",
+      "Par Koby qui le sort de l’eau"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Qui est le capitaine du premier équipage de pirates rencontré par Luffy ?",
+    "options": [
+      "Morgan",
+      "Alvida",
+      "Hermep",
+      "Bellamy"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Koby est-il devenu membre de l’équipage d’Alvida ?",
+    "options": [
+      "Parce qu’il s’est trompé de bateau en allant pêcher",
+      "Parce qu’il devait rembourser une dette",
+      "Parce qu’Alvida voulait le manger",
+      "Parce qu’il voulait devenir pirate"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que souhaite faire Koby malgré sa peur ?",
+    "options": [
+      "Trouver le trésor d’Alvida",
+      "Retourner dans son village",
+      "Entrer dans la Marine",
+      "Devenir un pirate"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Koby qualifie-t-il Alvida sous l’influence de Luffy ?",
+    "options": [
+      "Une femme redoutable mais juste",
+      "La plus moche de toutes les vieilles sorcières des océans",
+      "Une femme aussi belle qu’intelligente",
+      "La plus forte pirate des mers"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Comment Luffy contre-attaque-t-il Alvida après qu’elle tente de frapper Koby ?",
+    "options": [
+      "Il esquive et la fait tomber",
+      "Il appelle à l’aide",
+      "Il utilise un bâton trouvé au sol",
+      "Il utilise son Gomu Gomu no Pistol"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Que propose Luffy à l’équipage d’Alvida après l’avoir vaincue ?",
+    "options": [
+      "De laisser Koby partir",
+      "De rendre leur trésor",
+      "De rejoindre son équipage",
+      "De travailler sous ses ordres"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quel célèbre personnage Koby pense-t-il que Luffy ne pourra jamais convaincre de rejoindre son équipage ?",
+    "options": [
+      "Smoker",
+      "Roronoa Zoro",
+      "Sanji",
+      "Usopp"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Où Luffy et Koby rencontrent-ils Zoro pour la première fois ?",
+    "options": [
+      "Sur un navire pirate",
+      "Dans une auberge abandonnée",
+      "Attaché dans la cour de la base de la Marine à Shells Town",
+      "En prison dans une grotte"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Pourquoi Zoro est-il attaché dans la base de la Marine ?",
+    "options": [
+      "Pour avoir défié le colonel Morgan",
+      "Pour avoir volé de la nourriture",
+      "Pour avoir tué le chien d’Hermep qui attaquait le village",
+      "Pour avoir attaqué des villageois"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quelle promesse Hermep fait-il à Zoro ?",
+    "options": [
+      "De le libérer s’il survit un mois sans nourriture",
+      "De réduire sa peine en échange d’argent",
+      "De le libérer s’il travaille pour la Marine",
+      "De l’exécuter rapidement s’il obéit"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que fait Luffy après qu’Hermep révèle qu’il mentait à Zoro ?",
+    "options": [
+      "Il demande des excuses",
+      "Il libère Zoro immédiatement",
+      "Il frappe Hermep",
+      "Il menace Morgan"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Luffy monte-t-il au sommet de la forteresse de la Marine ?",
+    "options": [
+      "En utilisant une corde",
+      "Avec son Gomu Gomu no Rocket",
+      "En volant un canon pour se propulser",
+      "En escaladant la tour"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que demande Luffy à Zoro en échange de sa libération ?",
+    "options": [
+      "De l’aider à battre Alvida",
+      "De protéger Koby",
+      "De rejoindre son équipage",
+      "De l’aider à voler la Marine"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Luffy utilise-t-il Hermep dans la forteresse ?",
+    "options": [
+      "Comme otage pour négocier avec Morgan",
+      "Comme bouclier vivant contre les Marines",
+      "Comme leurre pour distraire les soldats",
+      "Comme guide pour éviter les pièges"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quelle promesse Zoro a-t-il faite à Kuina avant sa mort ?",
+    "options": [
+      "De protéger son village",
+      "De ne jamais abandonner la voie du sabre",
+      "De devenir le meilleur sabreur du monde",
+      "De vaincre le colonel Morgan"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Zoro impressionne-t-il les Marines après sa libération ?",
+    "options": [
+      "En bloquant leurs attaques d’un seul geste",
+      "En détruisant un canon avec son sabre",
+      "En utilisant une technique secrète",
+      "En terrassant Morgan d’un coup"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que fait Luffy après que Morgan tente de le frapper ?",
+    "options": [
+      "Il le capture pour le livrer à la Marine",
+      "Il détruit son arme avec son caoutchouc",
+      "Il le repousse avec un Gomu Gomu no Pistol",
+      "Il esquive et laisse Zoro intervenir"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quelle est la réaction des habitants après la défaite de Morgan ?",
+    "options": [
+      "Ils appellent la Marine",
+      "Ils abandonnent Shells Town",
+      "Ils demandent à Luffy et Zoro de rester",
+      "Ils se réjouissent de la fin de sa tyrannie"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Que fait Luffy pour aider Koby à rejoindre la Marine ?",
+    "options": [
+      "Il prétend que Koby n’est pas un pirate",
+      "Il falsifie un document officiel",
+      "Il persuade les marines de Shells Town",
+      "Il combat un officier pour prouver la valeur de Koby"
+    ],
+    "reponse": "1"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Quelle est la prime de Luffy apres Arlong park ?",
+    "options": [
+      "10.000.000",
+      "50.000.000",
+      "30.000.000",
+      "20.000.000"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que fait Nami à Loguetown ?",
+    "options": [
+      "Elle aide Luffy à trouver la potence",
+      "Elle teste des vêtements",
+      "Elle cherche une carte pour Grand Line",
+      "Elle achète des mandarines"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Combien de vêtements achète Nami ?",  
+    "options": [
+      "Presque tout le magasin",
+      "Un pour chaque membre de l'équipage",
+      "Aucun",
+      "Une dizaine"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Pourquoi Usopp est-il excité en visitant une boutique ?",
+    "options": [
+      "Parce qu'il y trouve des objets ayant appartenu à des grands aventuriers",
+      "Parce qu'il découvre une carte rare",
+      "Parce qu'il achète un nouveau lance-pierre",
+      "Parce qu'il rencontre un pirate célèbre"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quelle est la réaction de Shanks lorsqu'il apprend la prime de Luffy ?",
+    "options": [
+      "Il décide de relancer la fête",
+      "Il s'inquiète pour Luffy",
+      "Il envoie un message à Luffy",
+      "Il ignore la nouvelle"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que fait Smoker lorsqu'il apprend que l'équipage du Chapeau de Paille est en ville ?",
+    "options": [
+      "Il envoie Tashigi pour enquêter",
+      "Il interroge les habitants",
+      "Il dit qu'il va régler ça",
+      "Il prépare une embuscade"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que raconte une vendeuse à Nami à propos du Colonel Smoker ?",
+    "options": [
+      "Qu'il possède un Fruit du Démon",
+      "Qu'il a détruit un navire de Mihawk",
+      "Qu'il est un ancien pirate",
+      "Qu'il a capturé Shanks"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que fait Smoker lorsqu'il rencontre Luffy pour la première fois ?",
+    "options": [
+      "Il engage un combat immédiatement",
+      "Il lui demande pourquoi il est à Loguetown",
+      "Il tente de l'arrêter avec son Fruit du Démon",
+      "Il lui indique la direction de la potence sans savoir qu'il est Luffy"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Qui Zoro rencontre-t-il pendant qu'il cherche des sabres ?",
+    "options": [
+      "Un marchand de sabres célèbre",
+      "Une jeune femme ressemblant à Kuina",
+      "Un pirate recherché par Smoker",
+      "Un ancien marine devenu brigand"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Tashigi demande un remboursement à Zoro ?",
+    "options": [
+      "Parce qu'il lui a pris un objet précieux",
+      "Parce qu'il a cassé ses lunettes",
+      "Parce qu'il a abîmé son sabre",
+      "Parce qu'il a perdu une carte qu'elle lui avait prêtée"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi le marchand déconseille à Zoro de prendre le sabre qu'il a remarqué ?",
+    "options": [
+      "Parce qu'il est cassé",
+      "Parce qu'il appartient à la Marine",
+      "Parce qu'il est maudit",
+      "Parce qu'il est trop cher"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Zoro teste-t-il le sabre maudit avant de l'accepter ?",
+    "options": [
+      "Il le compare à ses anciens sabres",
+      "Il le lance en l'air et met son bras sur sa trajectoire",
+      "Il coupe un objet en métal avec",
+      "Il demande à un marchand de l'évaluer"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que fait le marchand après avoir vu Zoro accepter le sabre maudit ?",
+    "options": [
+      "Il appelle la Marine",
+      "Il ferme sa boutique immédiatement",
+      "Il essaie de racheter le sabre maudit",
+      "Il lui donne un autre sabre célèbre gratuitement"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Quel est le nom du sabre maudit que Zoro accepte ?",
+    "options": [
+      "Wado Ichimonji",
+      "Sandai Kitetsu",
+      "Shodai Kitetsu",
+      "Yubashiri"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi le marchand décide-t-il de donner un sabre célèbre gratuitement à Zoro ?",
+    "options": [
+      "Parce qu'il regrette sa décision",
+      "Parce qu'il veut confier son rêve à Zoro",
+      "Parce qu'il veut se débarrasser du sabre",
+      "Parce qu'il craint que Zoro révèle son arnaque"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Combien de nouveaux sabres Zoro obtient-il à Loguetown ?",
+    "options": [
+      "Trois",
+      "Aucun",
+      "Deux",
+      "Un"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quel est le deuxième sabre que Zoro obtient à Loguetown ?",
+    "options": [
+      "Yubashiri",
+      "Wado Ichimonji",
+      "Sandai Kitetsu",
+      "Shusui"
+    ],
+    "reponse": "1"
+  },
+  { 
+    "question": "Que fait Sanji à Loguetown ?", 
+    "options": [
+      "Il cherche du poisson",
+      "Il cherche des femmes",
+      "Il visite la ville",
+      "Il cherche son cousin"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quel poisson achète Sanji ?",
+    "options": [
+      "Du saumon",
+      "Du thon",
+      "De la dorade",
+      "De la saule"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Comment Smoker réagit quand une petite fille le tâche avec sa glace ?",  
+    "options": [
+      "Il s'enerve",
+      "Il la met en prison",
+      "Il lui rembourse la glace",
+      "Il leche son pantalon pour ne pas gaspiller"
+    ],
+    "reponse": "3"
+  }
+]

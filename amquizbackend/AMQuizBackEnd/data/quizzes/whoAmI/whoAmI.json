@@ -1,0 +1,39 @@
+[
+    {
+      "indice1": "Je suis un mammifère marin",
+      "indice2": "Je vis principalement dans l'océan",
+      "indice3": "Je suis connu pour mes sauts hors de l'eau",
+      "reponsesPossibles": ["Dauphin", "Orque", "Baleine"]
+    },
+    {
+      "indice1": "Je suis un instrument de musique",
+      "indice2": "J'ai des cordes et un archet",
+      "indice3": "Je fais partie de l'orchestre",
+      "reponsesPossibles": ["Violon", "Violoncelle", "Alto"]
+    },
+    {
+      "indice1": "Je suis une planète du système solaire",
+      "indice2": "Je suis la plus proche du Soleil",
+      "indice3": "Je n'ai pas d'atmosphère",
+      "reponsesPossibles": ["Mercure", "Venus", "Mars"]
+    },
+    {
+      "indice1": "Je suis une œuvre littéraire",
+      "indice2": "Je suis écrit par Victor Hugo",
+      "indice3": "Je raconte l'histoire de Jean Valjean",
+      "reponsesPossibles": ["Les Misérables", "Notre-Dame de Paris", "L'Homme qui rit"]
+    },
+    {
+      "indice1": "Je suis un sport olympique",
+      "indice2": "Je me joue sur un terrain en gazon ou en salle",
+      "indice3": "Je nécessite une raquette",
+      "reponsesPossibles": ["Tennis", "Badminton", "Squash"]
+    },
+    {
+      "indice1": "Je suis une technologie utilisée dans les ordinateurs",
+      "indice2": "Je stocke temporairement des données",
+      "indice3": "Je suis beaucoup plus rapide que le disque dur",
+      "reponsesPossibles": ["RAM", "SSD", "Mémoire cache"]
+    }
+  ]
+  

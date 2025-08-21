@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Pourquoi Nami vole-t-elle les pirates qu'elle croise ?",
+    "options": [
+      "Pour devenir riche et célèbre",
+      "Pour financer un voyage vers Grand Line",
+      "Pour racheter son village à Arlong",
+      "Pour se venger des pirates"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment s'appelle l'archipel sur laquelle se trouve Arlong park ?", 
+    "options": [
+      "Konoha",
+      "Konomi",
+      "Korko",
+      "Koko"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que combat Sanji et Luffy sur la route pour Konomi ?",
+    "options": [
+      "Un poisson géant",
+      "Des marines",
+      "Meuh-Meuh",
+      "Don Krieg"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Sanji et Luffy arrivent-ils rapidement sur Konomi ?", 
+    "options": [
+      "Car ils rament vite",
+      "Car meuh-meuh les tirent",
+      "Car il y a beaucoup de vent",
+      "Grace au cola"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Qui sont les principaux ennemis présents sur l'archipel ?",
+    "options": [
+      "Les Hommes-Poissons",
+      "Les Grands Corsaires",
+      "Les pirates de Baggy",
+      "La Marine"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Quel est le nom du village détruit que nous voyons en premier ?",
+    "options": [
+      "Gosa",
+      "Gyoza",
+      "Kokoyashi",
+      "Koranemo"
+    ],
+    "reponse": "1"
+  },    
+  {
+    "question": "Quel est le lien entre Nojiko et Nami ?",
+    "options": [
+      "Elles sont cousines",
+      "Elles sont sœurs adoptives",
+      "Elles sont des amies d'enfance",
+      "Elles sont des alliées contre Luffy"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que fait Nami avec le butin qu'elle a volé à Baggy ?",
+    "options": [
+      "Elle le donne à Arlong",
+      "Elle le cache dans son village",
+      "Elle le jette à la mer",
+      "Elle le vend"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Qui raconte à Luffy et Sanji des informations sur les Grands Corsaires pendant leur voyage ?",
+    "options": [
+      "Johnny",
+      "Yosaku",
+      "Usopp",
+      "Zoro"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Zoro est-il capturé par la bande d'Arlong ?",
+    "options": [
+      "Car il voulait affronter Arlong",
+      "Car il s'est perdu",
+      "Car il cherchait Nami",
+      "Car c'est un chasseur de pirates"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "De quelle couleurs sont les cheveux de Nojiko ?",
+    "options": [
+      "Rouge",
+      "Bleu clair",
+      "Vert pomme",
+      "Jaune"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que révèle Nojiko à Usopp au sujet de Nami ?",
+    "options": [
+      "Qu'elle veut fuir le village",
+      "Qu'elle cache un trésor",
+      "Qu'elle travaille pour Arlong",
+      "Qu'elle est une pirate recherchée"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Zoro parvient-il à se libérer de la base d'Arlong ?",
+    "options": [
+      "En utilisant sa force brute",
+      "Grâce à l'aide de Nami",
+      "En soudoyant les gardes",
+      "Avec l'aide de Usopp"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Que fait Zoro après avoir été libéré par Nami ?",
+    "options": [
+      "Il retourne chercher Luffy",
+      "Il affronte directement Arlong",
+      "Il détruit les Hommes-Poissons restés à la base",
+      "Il s'échappe"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Pourquoi Nami décide-t-elle de 'tuer' Usopp ?",
+    "options": [
+      "Pour son plaisir",
+      "Parce qu'il a volé son trésor",
+      "Pour prouver sa loyauté envers Arlong",
+      "Parce qu'elle croit qu'il est un espion"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que fait Arlong lorsque la Marine approche de l'archipel ?",
+    "options": [
+      "Il fuit vers une autre île",
+      "Il tente de négocier avec eux",
+      "Il coule immédiatement leur navire",
+      "Il les ignore complètement"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que fait Nojiko lorsque Usopp retrouve Luffy et les autres ?",
+    "options": [
+      "Elle attaque la base d'Arlong",
+      "Elle fuit avec les villageois",
+      "Elle demande à Luffy de partir immédiatement",
+      "Elle décide de tout raconter sur le passé de Nami"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Pourquoi Luffy décide-t-il d'« aller faire un tour » après avoir entendu l'histoire ?",
+    "options": [
+      "Parce qu'il veut explorer l'île",
+      "Parce qu'il ne se préoccupe pas des détails",
+      "Parce qu'il veut parler seul à Nami",
+      "Parce qu'il a un plan secret pour vaincre Arlong"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quelle est l'origine de Nami et Nojiko ?",
+    "options": [
+      "Elles ont grandi avec Arlong",
+      "Elles viennent d'un autre archipel",
+      "Elles sont orphelines",
+      "Elles sont sœurs biologiques"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que fait Usopp dans le village de Kokoyashi ?",
+    "options": [
+      "Il tente de s'infiltrer discrètement",
+      "Il rassemble les villageois",
+      "Il vole un trésor pour Nami",
+      "Il affronte directement Arlong"
+    ],
+    "reponse": "1"
+  }
+]

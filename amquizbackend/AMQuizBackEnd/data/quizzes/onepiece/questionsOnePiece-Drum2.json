@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Comment s'appellent les 2 lieuntants de Wapol ?",
+    "options": [
+      "Flocki et Rodolph",
+      "Chess et Kuromarimo",
+      "Likra et Flobert",
+      "Caro et Karcha"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Avec quoi se bat Kuromarimo ?",
+    "options": [
+      "Des boules de poils afro",
+      "Des yoyos",
+      "Des boules de bowling",
+      "Des ongles d'ours"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Avec quoi se bat Chess ?",
+    "options": [
+      "Une massue",
+      "Un arc",
+      "Un bouclier",
+      "Une fronde"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Quelle technique Wapol utilise t-il au début du combat contre Luffy ?",
+    "options": [
+      "Wapol garden",
+      "Wapol shot",
+      "Wapol burger",
+      "Wapol house"
+    ],
+    "reponse": "4"
+  },    
+  {
+    "question": "Quel motif special y a t-il sur le drapeau du Dr. Hiluluk ?",
+    "options": [
+      "Des pétales de cerisiers",
+      "Des drogues",
+      "Des pétales de roses",
+      "Des pétales de tournesol"
+    ],
+    "reponse": "1"
+  },    
+  {
+    "question": "Chopper possèdes un fruit du démon de quel type ?",
+    "options": [
+      "Zoan",
+      "Logia",
+      "Paramecia",
+      "Zoan mythique"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Laquelle de ces techniques n'est PAS une technique de Chopper ?",
+    "options": [
+      "Guard Point",
+      "Call Point",
+      "Horn Point",
+      "Kung-Fu Point"
+    ],
+    "reponse": "2"
+  },       
+  {
+    "question": "Comment s'appelle la drogue développée par Chopper pour se transformer ?",
+    "options": [
+      "Coque à ine",
+      "Rumble Ball",
+      "Brawl Ball",
+      "Hiluk Ball"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quelle est la durée d'utilisation d'une rumble ball ?",
+    "options": [
+      "3 minutes",
+      "30 secondes",
+      "10 minutes",
+      "1 minute"
+    ],
+    "reponse": "1"
+  }, 
+  {
+    "question": "Que se passe t-il quand Wapol se mange lui-même ?",
+    "options": [
+      "Il meurt",
+      "Il devient invisible",
+      "Il maigrit",
+      "Il redevient enfant"
+    ],
+    "reponse": "3"
+  },    
+  {
+    "question": "Que y a t-il dans le canon du chateau ?",
+    "options": [
+      "Un nid de Snowbird",
+      "Des armes",
+      "Des rumbles balls",
+      "La clé de la salle des coffres"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "De quel couleur est un snowbird ?",
+    "options": [
+      "Bleu turquoise",
+      "Noir",
+      "Bleu clair",
+      "Blanc"
+    ],
+    "reponse": "4"
+  },  
+  {
+    "question": "Comment Chopper observe t-il les gens ?",
+    "options": [
+      "Vraiment pas discretement",
+      "Il est indetectable",
+      "Il n'observe jamais personne",
+      "Avec des lunettes infrarouge"
+    ],
+    "reponse": "1"
+  },   
+  {
+    "question": "Que propose Wapol à Luffy à la fin leur combat ?",
+    "options": [
+      "De quitter Drum sans se battre",
+      "Un trésor en échange de sa vie",
+      "Devenir le vice-roi du pays",
+      "De rejoindre son équipage"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Avec quel vehicule les mugiwaras fuit-ils le chateau ?",
+    "options": [
+      "Un telephérique",
+      "Un jet-ski",
+      "Un traineau",
+      "Une moto"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Qui a demandé si ils avaient vu Luffy aux habitants de Drum ?",
+    "options": [
+      "Ace",
+      "Shanks",
+      "Dragon",
+      "Sabo"
+    ],
+    "reponse": "1"
+  },   
+  {
+    "question": "Pourquoi Chopper rejoint les mugiwaras?",
+    "options": [
+      "Il veut voir le monde extérieur",
+      "Il est convaincu par Luffy",
+      "Il se rappelle des paroles de Hiluluk",
+      "Il veut fuir Wapol"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que voulait faire la Dr. Kureha en empêchant Chopper de partir ?",
+    "options": [
+      "Le protéger d'un danger imminent",
+      "Utiliser la psychologie inversée pour le convaincre de partir",
+      "Tester son courage",
+      "S'assurer qu'il reviendra un jour"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel effet a la poudre de Hiluluk sur la neige ?",
+    "options": [
+      "Elle la transforme en glace",
+      "Elle lui donne la couleur des fleurs de cerisiers",
+      "Elle la rend plus dense",
+      "Elle la fait disparaître"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Luffy voulait-il recruter Chopper ?",
+    "options": [
+      "Parce qu'il est un utilisateur de fruit du démon",
+      "Pour ses talents de médecin",
+      "Parce qu'il est beau goss",
+      "Pour ses capacités de combat"
+    ],
+    "reponse": "2"
+  }
+]

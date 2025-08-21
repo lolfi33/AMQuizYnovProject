@@ -1,0 +1,203 @@
+[
+  {
+    "question": "Ou se trouve la base de Crocodile ?",
+    "options": [
+      "Alubarna",
+      "Rainbase",	  
+      "Yuba",
+      "Licor"
+    ],
+    "reponse":"2"
+  },
+  {
+    "question": "Dans quel batiment se trouve la base ?",
+    "options": [
+      "Dans un casino",
+      "Dans un palais",
+      "Dans un restaurant",
+      "Dans une bibilothèque"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quel est le nom de l'opération finale de Baroque Works ?",
+    "options": [
+      "Mars",
+      "Pluton",
+      "Utopia",
+      "Power"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Qui est le chef de Baroque Works ?",
+    "options": [
+      "Mr 1",
+      "Akainu",
+      "Doflamingo",
+      "Crocodile"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Pourquoi Luffy et Vivi se battent-ils ?",
+    "options": [
+      "Pour que Vivi comprenne qu'elle ne doit pas être la seule à risque sa vie",
+      "Car Luffy en a marre des caprices de Vivi",
+      "Car Vivi veut s'entrainer",
+      "Pour que Vivi ressente ce qu'on ressent quand on se bat"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que demande Luffy à Vivi en échange qu'il batte Crocodile ?",
+    "options": [
+      "De l'épouser",
+      "Des berrys",
+      "Un festin",
+      "De lui présenter son frère"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Qui sont les 2 commandants de l'armée d'Alabsta ?",
+    "options": [
+      "Pioche et Chakra",
+      "Pell et Chaka",
+      "Hache et Choco",
+      "Rato et Chique"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel est le pouvoir de Pell ?",
+    "options": [
+      "Se transformer en faucon",
+      "Se transformer en pelle",
+      "Se transformer en scorpion",
+      "Se déplacer sous terre"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quel est le pouvoir de Chaka ?",
+    "options": [
+      "Se transformer en chacal",
+      "Se transformer en chat",
+      "Dessécher ses ennemis",
+      "Se transformer en Sphynx"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment s'appelle le roi d'Alabasta ?",
+    "options": [
+      "Spynx",
+      "Leto",
+      "Basset",
+      "Cobra"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Qui avertit le roi d'Alabasta que leur vrai ennemi est Crocodile ?",
+    "options": [
+      "Toto",
+      "Kaloo",
+      "Luffy",
+      "Mr 2"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Comment s'apelle la nouvelle arme qu'a créer Usopp pour Nami ?",
+    "options": [
+      "Meteo staff",
+      "Bâton climatique",
+      "Dial vent",
+      "Nimbus 2000"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Comment Vivi appelle t-elle Zoro ?",
+    "options": [
+      "Tête de cactus",
+      "Mr Bushido",
+      "Tête d'algue",
+      "L'alcoolique"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi l'appelle t'il Mr Bushido ?",
+    "options": [
+      "Car Bushido signifie 'La voie du guerrier'",
+      "Car il lui rapelle son cousin Bushido",
+      "Car Bushido signfie 'vert clair'",
+      "Car c'est un surnom rididcule d'Alabasta"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quelle est la prticularité de l'arme de Smoker ?",
+    "options": [
+      "Elle est énorme",
+      "Elle tranche toutes les matières",
+      "Elle est totalement en granit marin",
+      "Sa pointe est faite de granit marin"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Combien de fruit du démon permettent de voler ?",
+    "options": [
+      "2",
+      "1",
+      "10",
+      "5"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Quel est le pouvoir de Miss Allsunday ?",
+    "options": [
+      "Faire éclore des membres de son corps comme des fleurs",
+      "Se téléporter",
+      "Le poison",
+      "Se transformer en fleur"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Qui Luffy imite-il dans la prison du casino ?",
+    "options": [
+      "Smoker",
+      "Zoro",
+      "Sanji",
+      "Crocodile"
+    ],
+    "reponse": "3"
+  },
+
+  {
+    "question": "Pour qui se fait passer Sanji au près de Crocodile ?",
+    "options": [
+      "Mr Mime",
+      "Le prince d'Alabasta",
+      "Mr Beau goss",
+      "Mr Prince"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Comment s'echappent-ils de la prison ?",
+    "options": [
+      "Sanji la détruit",
+      "Zoro la tranche",
+      "Mr3 fabrique la clé ",
+      "Ils retrouvent la clé dans un crocodile"
+    ],
+    "reponse": "3"
+  }
+]

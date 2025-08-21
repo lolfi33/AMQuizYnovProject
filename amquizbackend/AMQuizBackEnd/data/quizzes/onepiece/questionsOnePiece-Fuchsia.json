@@ -1,0 +1,204 @@
+[ 
+       {
+		   "commentaire": "20 questions",
+            "question": "Que déclare Gol D. Roger avant son exécution ?",
+            "options": [
+                "De protéger les mers",
+                "De partir à la recherche de son trésor",
+                "D'abandonner la piraterie.",
+                "Que son trésor n'existe pas"              
+            ],
+            "reponse": "2"
+        },
+        {
+            "question": "Comment Luffy prouve-t-il son courage face aux pirates de Shanks",
+            "options": [
+                "En affrontant un bandit",
+                "En volant leur trésor",
+                "En défiant Shanks en duel",
+                "En se poignardant la joue"              
+            ],
+            "reponse": "4"
+        },
+		{
+            "question": "Pourquoi Shanks refuse-t-il que Luffy rejoigne son équipage ?",
+            "options": [
+                "Parce qu'il est trop jeune et ne sait pas nager",
+                "Parce qu'il n'aime pas les enfants",
+                "Parce qu'il ne veut pas de responsabilité",
+                "Parce qu'il est en fuite"              
+            ],
+            "reponse": "1"
+        },
+		{
+            "question": "Que boit Luffy au Partys Bar ? (Le bar de Makino)",
+            "options": [
+                "Du rhum",
+                "De la grenadine",
+                "De l'eau",
+                "Du jus de pomme"              
+            ],
+            "reponse": "2"
+        },
+		{
+            "question": "Que fait Higuma le bandit des montagne lorsqu’il entre pour la première fois au bar ?",
+            "options": [
+                "Il défie Luffy en duel",
+                "Il menace Makino pour de l'argent.",
+                "Il réclame de l'alcool et brise une bouteille sur la tête de Shanks",
+                "Il ordonne à Shanks de se soumettre"              
+            ],
+            "reponse": "3"
+        },
+		{
+            "question": "Quel est le fruit du démon que Luffy mange ?",
+            "options": [
+                "Le Mera Mera no Mi",
+                "Le Gomu Gomu no Mi",
+                "Le Tori Tori no Mi",
+                "Le Suna Suna no Mi"              
+            ],
+            "reponse": "2"
+        },
+		{
+            "question": "Pourquoi Shanks panique-t-il après que Luffy ait mangé le fruit du démon ?",
+            "options": [
+                "Parce que le fruit était empoisonné",
+                "Parce qu'il appartenait à la Marine",
+                "Parce que Luffy ne pourra plus jamais nager",
+                "Parce qu'il n'a plus de fruits à vendre"              
+            ],
+            "reponse": "3"
+        },
+		{
+            "question": "Que montre Luffy aux villageois après avoir mangé le fruit du démon ?",
+            "options": [
+                "Son corps en caoutchouc",
+                "Ses fesses",
+                "Son nouveau tee-shirt",
+                "Son nokia 3310"              
+            ],
+            "reponse": "1"
+        },
+		{
+            "question": "Pourquoi Higuma frappe t-il Luffy la 2eme fois qu'il rentre dans le bar ?",
+            "options": [
+                "Car Luffy a protégé l'honneur de Shanks",
+                "Car Higuma n'aime pas les enfants",
+                "Car Luffy leurs a tendu des pièges",
+                "Car il est soul"              
+            ],
+            "reponse": "2"
+        },		
+		{
+            "question": "Après avoir capturé Luffy, comment Higuma s'échappe-t-il ?",
+            "options": [
+                "En utilisant un tunnel secret",
+                "Avec une bombe fumigène",
+                "En montant à bord d’un navire de la Marine",
+                "En prenant Makino en otage"              
+            ],
+            "reponse": "2"
+        },
+		{
+            "question": "Pourquoi Higuma pense-t-il qu’il est en sécurité en mer ?",
+            "options": [
+                "Parce que personne ne s’attend à un bandit des montagnes sur l’eau",
+                "Parce que la Marine protège ces eaux",
+                "Parce que l'océan est remplit de monstre marin",
+                "Parce qu’il a un accord avec les pirates locaux"              
+            ],
+            "reponse": "1"
+        },
+		{
+            "question": "Qui sauve Luffy de la noyade après qu’Higuma l’ait jeté à l’eau ?",
+            "options": [
+                "Shanks",
+                "Makino",
+                "Macron",
+                "Un lieutnant de Shanks"              
+            ],
+            "reponse": "1"
+        },
+		{
+            "question": "Comment Shanks fait-il fuir le monstre marin qui les attaques ?",
+            "options": [
+                "En faisant le bruit de la baleine",
+                "En le menaçant avec un regard intimidant",
+                "En utilisant un pistolet",
+                "En appelant son équipage"              
+            ],
+            "reponse": "2"
+        },
+		{
+            "question": "Qu perd Shanks en sauvant Luffy du monstre marin ?",
+            "options": [
+                "Son chapeau",
+                "Son trésor",
+                "Son bras gauche",
+                "Sa dignité"              
+            ],
+            "reponse": "3"
+        },
+		{
+            "question": "Quel est le surnom de Shanks ?",
+            "options": [
+                "Shanks le Baroudeur",
+                "Shanks le Brave",
+                "Shanks l’Invincible",
+                "Shanks le Roux"              
+            ],
+            "reponse": "4"
+        },
+		{
+            "question": "Qu'offre Shanks à Luffy avant de quitter le village ?",
+            "options": [
+                "Son chapeau",
+                "Son log pose",
+                "Son épée",
+                "Une carte au trésor"              
+            ],
+            "reponse": "1"
+        },
+		{
+            "question": "Quelle promesse Luffy fait-il à Shanks ?",
+            "options": [
+                "De devenir un Amiral de la Marine",
+                "De ne jamais manger un autre fruit du démon",
+                "De lui rendre son chapeau une fois devenu un grand pirate",
+                "De protéger le village"              
+            ],
+            "reponse": "3"
+        },
+		{
+            "question": "Pourquoi le maire de Fuchsia désapprouve-t-il Luffy ?",
+            "options": [
+                "Parce qu’il ne veut pas qu’il devienne pirate",
+                "Parce qu’il a volé de l’argent du village",
+                "Parce qu’il a détruit le bar",
+                "Parce qu’il se bat souvent avec les bandits"              
+            ],
+            "reponse": "1"
+        },
+		{
+            "question": "A quel âge Luffy quitte-il le village ?",
+            "options": [
+                "19 ans",
+                "23 ans",
+                "15 ans",
+                "17 ans"              
+            ],
+            "reponse": "4"
+        },
+		{
+            "question": "Qui croise Luffy quand il quitte son village ?",
+            "options": [
+                "Shanks",
+                "Le monstre marin",
+                "Des pirates",
+                "Son père"              
+            ],
+            "reponse": "2"
+        }
+       
+]

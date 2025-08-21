@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Pourquoi l'Équipage du Chapeau de Paille décide-t-il d'accoster à Whiskey Peak ?",
+    "options": [
+      "Ils sont attirés par les festivités",
+      "Le Log Pose doit se recharger",
+      "Ils cherchent à fuir une tempête",
+      "Ils veulent rencontrer Igaram"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Comment les habitants de Whiskey Peak accueillent-ils les Chapeaux de Paille ?",
+    "options": [
+      "En silence",
+      "Comme des héros",
+      "Avec hostilité",
+      "Avec méfiance"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Qu'est-ce qui intrigue Nami et Zoro lors de la fête ?",
+    "options": [
+      "L'accueil trop chaleureux des habitants",
+      "La nourriture servie",
+      "Les chansons étranges",
+      "Les vêtements des habitants"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quel est le rôle d'Igaram à Whiskey Peak ?",
+    "options": [
+      "Chef de la ville et agent du Baroque Works",
+      "Eboueur",
+      "Capitaine pirate",
+      "Cartographe"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment Zoro réagit-il face à l'attaque des agents de Baroque Works ?",
+    "options": [
+      "Il demande de l'aide à Luffy",
+      "Il tente de négocier avec eux",
+      "Il les affronte seul",
+      "Il finit handicapé"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quel objet Miss Wednesday utilise-t-elle pour tenter d'hypnotiser Zoro ?",
+    "options": [
+      "Un miroir brillant",
+      "Un parfum envoûtant",
+      "Un pendentif en or",
+      "Une amulette magique"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Comment Zoro neutralise-t-il Mr. 9 ?",
+    "options": [
+      "En l'utilisant comme bouclier",
+      "En lui lançant une pierre",
+      "En le tranchant",
+      "En le faisant tomber dans l'eau"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Qui sont les véritables espions infiltrés au sein du Baroque Works ?",
+    "options": [
+      "Miss Valentine et Mr. 5",
+      "Miss Goldenweek et Mr. 3",
+      "Miss All Sunday et Mr. 13",
+      "Miss Wednesday et Mr. 8"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Que découvre-t-on sur l'identité de Miss Wednesday ?",
+    "options": [
+      "Elle est une alliée de Crocodile",
+      "Elle est une espionne pour la Marine",
+      "Elle est la princesse Vivi du royaume d'Alabasta",
+      "Elle est la sœur de Nami"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Pourquoi Mr. 5 et Miss Valentine attaquent Miss Wednesday et Mr. 8 ?",
+    "options": [
+      "Parce qu'ils désobéissent à Crocodile",
+      "Parce qu'ils veulent obtenir une récompense",
+      "Parce qu'ils veulent voler le trésor",
+      "Parce qu'ils ont découvert leur trahison"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Pourquoi Luffy attaque-t-il Zoro à Whiskey Peak ?",
+    "options": [
+      "Il veut prouver sa force",
+      "Il est manipulé par Miss Valentine",
+      "Il croit que Zoro a attaqué leurs hôtes",
+      "Il est hypnotisé par Mr. 5"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Luffy et Zoro battent-ils Mr. 5 et Miss Valentine ?",
+    "options": [
+      "Ils les effraient pour les faire fuir",
+      "Ils utilisent une attaque combinée",
+      "Ils les mettent KO en un seul coup",
+      "Ils les piègent dans un filet"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Quel marché Nami propose-t-elle pour protéger Vivi ?",
+    "options": [
+      "Devenir alliée de Baroque Works",
+      "Ramener Vivi à Alabasta contre 1.000.000.000 de Berrys",
+      "Attaquer Crocodile directement",
+      "Donner le Merry à Igaram"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Que fait Igaram pour protéger Vivi après la fuite de Whiskey Peak ?",
+    "options": [
+      "Il demande de l'aide à la Marine",
+      "Il attaque Crocodile directement",
+      "Il se déguise en elle pour servir de leurre",
+      "Il part à la recherche d'un allié puissant"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que se passe-t-il lorsque Igaram quitte Whiskey Peak déguisé ?",
+    "options": [
+      "Il rejoint le royaume d'Alabasta en sécurité",
+      "Son bateau explose en mer",
+      "Il est capturé par Miss All Sunday",
+      "Il parvient à semer les agents de Baroque Works"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Qui est Miss All Sunday ?",
+    "options": [
+      "La femme la plus haut placée dans Baroque Works",
+      "Une ancienne alliée de Vivi",
+      "Une chasseuse de primes célèbre",
+      "Une espionne de la Marine"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Qu'offre Miss All Sunday à l'équipage avant de partir ?",
+    "options": [
+      "Une clé pour sauver Igaram",
+      "Un Eternal Pose pour l'Île Sans Rien",
+      "Un trésor caché de Crocodile",
+      "Une carte de Grand Line"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Qu'est ce que l'île Sans Rien ?",
+    "options": [
+      "Une île rocailleuse",
+      "Une grosse crotte",
+      "Un champs de bataille",
+      "Un cimetière géant"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Comment Luffy réagit-il à l'Eternal Pose donné par Miss All Sunday ?",
+    "options": [
+      "Il le détruit",
+      "Il le cache pour l'utiliser plus tard",
+      "Il le garde précieusement",
+      "Il le donne à Vivi comme cadeau"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Qui est révélé comme étant Mr. 0, le chef de Baroque Works ?",
+    "options": [
+      "Crocodile, un Grand Corsaire",
+      "Kaido, un Empereur des Mers",
+      "Barbe Noire, un pirate célèbre",
+      "Doflamingo, un Grand Corsaire"
+    ],
+    "reponse": "1"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Luffy et nami arrivent sur une île déserte, quelle est sa particularité ?",
+    "options": [
+      "Il y a des animaux étranges",
+      "L'île est hanté",
+      "Elle est vraiment minuscule",
+      "Il y a des sables mouvants"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Qui est Gaimon et comment est-il coincé sur l'île ?",
+    "options": [
+      "Un explorateur perdu dans une grotte",
+	  "Un ancien pirate coincé dans un coffre depuis 20 ans",
+      "Un habitant local attaqué par des pirates",
+      "Un garde forestier protégeant les animaux"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Gaimon a-t-il protégé le trésor pendant 20 ans ?",
+    "options": [
+      "Parce qu'il lui appartient",
+      "Parce qu'il voulait empêcher les marines de s'en emparer",
+      "Parce qu'il avait juré de le protéger pour son capitaine",
+      "Parce qu'il croyait qu'il contenait un fruit du démon"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que découvre Luffy en ouvrant les coffres pour Gaimon ?",
+    "options": [    
+      "Ils contiennent des objets rares",
+      "Ils renferment des fruits du démon",
+      "Ils sont remplis de cartes au trésor",
+	  "Ils sont vides"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Pourquoi Gaimon refuse-t-il de rejoindre l'équipage de Luffy ?",
+    "options": [ 
+      "Il ne fait plus confiance aux pirates",
+      "Il préfère vivre seul",
+	  "Il veut protéger les animaux de l'île",
+      "Il n'aime pas naviguer en mer"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Qui est Usopp et quel est son lien avec Luffy ?",
+    "options": [ 
+      "C'est un ancien capitaine pirate devenu navigateur",
+      "C'est un villageois à la recherche d'un équipage",
+	  "C'est le fils de Yasopp, un pirate de l'équipage de Shanks",
+      "C'est un ami d'enfance de Luffy"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que font les Pirates d'Usopp dans le village ?",
+    "options": [     
+      "Ils protègent les villageois des marines",
+	  "Ils donnent de fausses alertes d'attaques de pirates",
+      "Ils organisent des expéditions pour chercher des trésors",
+      "Ils vendent des cartes au trésor"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Kuro a-t-il infiltré le village Sirop ?",
+    "options": [ 
+      "Pour se cacher de la Marine",
+      "Pour devenir maire du village",
+      "Pour recruter un nouvel équipage",
+	  "Pour obtenir la fortune de Kaya"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Comment Jango neutralise Luffy lorsqu'il entend le plan de Kuro ?",
+    "options": [
+      "En l'hypnotisant",
+      "En l'attaquant avec un sabre",
+      "En le capturant avec un filet",
+      "En utilisant un fruit du démon"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Pourquoi les villageois ne croient-ils pas Usopp à propos de Kuro ?",
+    "options": [    
+      "Ils sont sous l'influence de Jango",
+      "Ils n'ont jamais vu de pirates",
+	  "Il a souvent donné de fausses alertes",
+      "Ils pensent qu'il veut s'attirer l'attention"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que fait Kaya lorsqu'Usopp tente de la prévenir ?",
+    "options": [
+      "Elle pense qu'il plaisante et ne le croit pas",
+      "Elle appelle les villageois pour l'aider",
+      "Elle tente de s'échapper avec lui",
+      "Elle prépare une arme pour se défendre"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que donne Kaya à Krapador avant de découvrir sa véritable identité ?",
+    "options": [
+      "Des lunettes",
+      "Une carte au trésor",
+      "Un navire",
+      "Une lettre"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment Krapador révèle-t-il ses véritables intentions ?",
+    "options": [     
+      "Il attaque les villageois",
+      "Il détruit les lunettes offertes par Kaya",	  
+      "Il capture Kaya et la tient en otage",
+      "Il brûle la maison de Kaya"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Kuro veut-il la succession de Kaya ?",
+    "options": [     
+      "Pour prendre le contrôle du village",
+      "Pour prouver sa puissance aux pirates",
+      "Pour financer une nouvelle expédition",
+	  "Pour vivre une retraite paisible"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Qui est le bras droit de Kuro ?",
+    "options": [    
+      "Merry",
+      "Krapador",
+	  "Jango",
+      "Piment"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que font Luffy et son équipage pour aider Usopp ?",
+    "options": [
+      "Ils rassemblent les villageois pour se défendre",
+	  "Ils préparent des pièges pour les pirates de Kuro",
+      "Ils capturent Jango pour obtenir des informations",
+      "Ils construisent un nouveau navire pour fuir"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Comment Luffy survit-il après être tombé d'une falaise ?",
+    "options": [
+      "Grâce à ses pouvoirs de fruit du démon",
+      "En atterrissant sur un bateau",
+      "En s'accrochant à un arbre",
+      "En étant sauvé par Zoro"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quel est la particularité de Carotte, Piment et Oignon ?",
+    "options": [
+      "Ils sont fidèles mais inoffensifs",
+      "Ils protègent Usopp",
+      "Ils servent d'éclaireurs",
+      "Ils fabriquent des armes"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Pourquoi Merry est-il attaqué par Kuro ?",
+    "options": [
+      "Pour l'empêcher d'avertir Kaya",
+      "Parce qu'il refuse de rejoindre Kuro",
+      "Parce qu'il a découvert son identité",
+      "Pour voler des informations importantes"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que croient les pirates de Kuro en arrivant au village ?",
+    "options": [
+      "Qu'ils seront accueillis par les villageois",
+      "Qu'ils devront négocier avec Kaya",
+      "Qu'ils seront confrontés à des pièges",
+	  "Qu'ils ne trouveront aucune résistance"
+    ],
+    "reponse": "4"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Quelle mer les mugiwaras franchissent ils avant de rejoindre Reverse Mountain ?", 
+    "options": [
+      "All Blue",
+      "Calm Belt",
+      "East Blue",
+      "Reverse Mountain"
+    ],
+    "reponse": "2"  
+  },
+  {
+    "question": "Pourquoi Reverse Mountain est unique ?", 
+    "options": [
+      "Elle est toute verte",
+      "C'est la plus petite montagne du monde",
+      "Les cours d'eau des quatre Mers se rejoignent en haut de la montagne",
+      "Ce sont des montagnes inversées"
+    ],
+    "reponse": "3"
+  },  
+  {
+    "question": "Qui est Laboon ?",
+    "options": [
+      "Une baleine géante",
+      "Un pirate légendaire",
+      "Le gardien du phare",
+      "Un membre du Baroque Works"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Pourquoi Laboon frappe-t-elle Reverse Mountain ?",
+    "options": [
+      "Pour s'amuser",
+      "Pour retrouver ses compagnons",
+      "Pour protéger son territoire",
+      "Pour s'entraîner"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Qui est Crocus ?",
+    "options": [
+      "Un pirate recherché",
+      "Le médecin de l'Équipage du Chapeau de Paille",
+      "Un membre du Baroque Works",
+      "Le gardien du phare de Reverse Mountain"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "A quoi ressemble Crocus ?", 
+    "options": [
+      "Une fleur",
+      "Un ours",
+      "Une montagne",
+      "Une autruche"
+    ],
+    "reponse": "1"
+  },  
+  {
+    "question": "Quels membres du Baroque Works Luffy et son équipage rencontrent-ils dans le ventre de Laboon ?",
+    "options": [
+      "Mr. 9 et Miss Wednesday",
+      "Mr. 3 et Miss Goldenweek",
+      "Mr. 1 et Miss Doublefinger",
+      "Mr. 5 et Miss Valentine"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quelle promesse Luffy fait-il à Laboon ?",
+    "options": [
+      "De revenir la voir pour un duel",
+      "De la ramener chez elle",
+      "De trouver ses anciens compagnons",
+      "De la protéger des pirates"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que dessine Luffy sur la tête de Laboon ?",
+    "options": [
+      "Le Jolly Roger de son équipage",
+      "Une cicatrice",
+      "Un chapeau de paille",
+      "Une carte"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Depuis combien de temps Laboon attend-elle le retour de ses compagnons ?",
+    "options": [
+      "50 ans",
+      "20 ans",
+      "30 ans",
+      "10 ans"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Pourquoi ses anciens compagnons de Laboon l'ont-ils laissée avec Crocus ?",
+    "options": [
+      "Ils avaient peur d'elle",
+      "Ils prévoyaient de revenir la chercher",
+      "Ils ne voulaient pas qu'elle les suive dans Grand Line",
+      "Ils l'ont abandonnée intentionnellement"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "De qui Mr. 9 et Miss Wednesday ont ils peur ?", 
+    "options": [
+      "Des mockers",
+      "Des marines ",
+      "Des pirates",
+      "Des Unluckies"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Que sont les Unluckies ?", 
+    "options": [
+      "Des humains",
+      "Des oiseaux",
+      "Des poissons",
+      "Des chiens"
+    ],
+    "reponse": "2"
+  },  
+  {
+    "question": "Comment l'Équipage du Chapeau de Paille sort-il du ventre de Laboon ?",
+    "options": [
+      "En étant recraché",
+      "En trouvant une sortie secrète",
+      "En utilisant une explosion",
+      "Avec l'aide de Crocus"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quelle est la réaction de Laboon après le combat avec Luffy ?",
+    "options": [
+      "Elle est indifférente",
+      "Elle est joyeuse et pleine d'espoir",
+      "Elle est triste",
+      "Elle est en colère"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel est le rôle de Mr. 9 et Miss Wednesday dans l'histoire de Laboon ?",
+    "options": [
+      "Ils sont des agents du Baroque Works en mission",
+      "Ils sont les anciens compagnons de Laboon",
+      "Ils tentent de capturer Laboon",
+      "Ils aident l'Équipage du Chapeau de Paille"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Pourquoi l'Équipage du Chapeau de Paille décide-t-il d'aider Laboon ?",
+    "options": [
+      "Pour obtenir une récompense",
+      "Pour impressionner Crocus",
+      "Pour s'entraîner au combat",
+      "Par compassion pour son histoire"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Quel est le lien entre Crocus et Laboon ?",
+    "options": [
+      "Crocus a recueilli Laboon à la demande de ses compagnons",
+      "Crocus est un ancien pirate avec Laboon",
+      "Crocus est le propriétaire de Laboon",
+      "Crocus est le médecin qui soigne Laboon"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Quel est le nom de l'équipage que Laboon attend ?", 
+    "options": [
+      "Rumbar",
+      "Brookos",
+      "Musik",
+      "Licard"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que donne Crocus aux Mugiwaras ?", 
+    "options": [
+      "Un fruit du démon",
+      "Un log pose",
+      "Une carte",
+      "De l'argent"
+    ],
+    "reponse": "2"
+  }
+]

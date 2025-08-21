@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Que voit Luffy avant d'arriver à la Ville d'Orange ?",
+    "options": [
+      "Un navire pirate",
+      "Une grosse mouette",
+      "Un nuage en forme de chapeau",
+      "Un phare brillant dans la nuit"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Qui  Luffy rencontre-t-il en premier sur l'île ? ?",
+    "options": [
+      "Zoro",
+      "Baggy",
+      "Nami",
+      "Sanji"
+    ],
+    "reponse": "3"
+  },    
+  {
+    "question": "Pourquoi Nami est-elle poursuivie par les hommes de Baggy ?",
+    "options": [
+      "Elle leur a volé une carte",
+      "Elle a insulté leur capitaine",
+      "Elle a détruit leur canon",
+      "Elle a capturé un de leurs hommes"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment Zoro arrive-t-il sur l'île de la Ville d'Orange ?",
+    "options": [
+      "En suivant la mouette",
+      "En trouvant un log pose",
+      "En étant capturé par les hommes de Baggy",
+      "En nageant depuis son navire"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment Nami se présente-t-elle à Luffy au début ?",
+    "options": [
+      "Comme une chasseuse de trésors",
+      "Comme une navigatrice experte",
+      "Comme une voleuse qui détrousse les pirates",
+      "Comme une alliée des villageois"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que fait Nami pour gagner la confiance de Baggy ?",
+    "options": [
+      "Elle capture un pirate rival",
+      "Elle offre une carte de Grand Line",
+      "Elle propose de tuer Luffy avec un canon",
+      "Elle prétend vouloir rejoindre son équipage"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Comment Zoro découvre-t-il le pouvoir de Baggy ?",
+    "options": [
+      "En lisant un ancien journal",
+      "En voyant Baggy voler au-dessus du sol",
+      "En entendant les hommes de Baggy en parler",
+      "En se faisant poignarder après avoir découpé Baggy"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Que fait Zoro pour s’échapper avec Luffy ?",
+    "options": [
+      "Il menace les hommes de Baggy avec un otage",
+      "Il retourne le canon contre Baggy et ses hommes",
+      "Il utilise son Santoryu pour briser la cage",
+      "Il vole un navire pour partir"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Pourquoi Luffy ne peut-il pas sortir de la cage après l'évasion ?",
+    "options": [
+      "Le chien Chouchou a avalé la clé",
+      "Baggy a un pouvoir spécial sur la cage",
+      "La clé a explosé",
+      "Zoro a perdu la clé"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que fait Richie, le lion de Morge, à la cage de Luffy ?",
+    "options": [
+      "Il s'assoit dessus pour empêcher Luffy de sortir",
+      "Il la jette à la mer",
+      "Il la pousse jusqu'au repaire de Baggy",
+      "Il la détruit d'un simple coup de patte"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Pourquoi Luffy attaque-t-il Morge et Richie ?",
+    "options": [
+      "Pour impressionner Nami",
+      "Pour protéger le maire",
+      "Pour récupérer la clé de la cage",
+      "Pour venger Chouchou et sa boutique brûlée"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Que découvre Luffy sur la boutique que Chouchou protégeait ?",
+    "options": [
+      "Elle contenait un trésor caché",
+      "Elle était un repaire de la Marine",
+      "Elle servait de point de ravitaillement aux pirates",
+      "C'était la boutique de son maître décédé"
+    ],
+    "reponse": "4"
+  },  
+  {
+    "question": "Que récupère Luffy de la boutique de Chouchou après le combat avec Morge ?",
+    "options": [
+      "Un coffre au trésor",
+      "Un sabre ancien",
+      "Une boîte de croquettes",
+      "Une carte de Grand Line"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Que fait Luffy au maire lorsqu'il se rend chez Baggy ?",
+    "options": [
+      "Il lui donne une arme pour se défendre",
+      "Il l’assomme pour le protéger",
+      "Il lui demande de se cacher",
+      "Il l'encourage à se battre"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Comment Zoro reprend-il des forces avant son combat avec Carnage ?",
+    "options": [
+      "En mangeant la nourriture de Chouchou",
+      "En dormant dans la maison du maire",
+      "En se reposant sur la plage",
+      "En buvant une potion médicinale"
+    ],
+    "reponse": "2"
+  },
+  {
+    "question": "Quel avantage Carnage utilise-t-il contre Zoro ?",
+    "options": [
+      "Il frappe la blessure de Zoro",
+      "Il empoisonne son arme",
+      "Il invoque des renforts",
+      "Il utilise des attaques à distance"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Comment Luffy bat-il Baggy à la fin du combat ?",
+    "options": [
+      "En détruisant son navire",
+      "En lançant un Gomu Gomu no Bazooka",
+      "En le piégeant dans un filet",
+      "En utilisant les faiblesses de son fruit du démon"
+    ],
+    "reponse": "4"
+  },
+  {
+    "question": "Que reste-t-il du corps de Baggy après sa défaite ?",
+    "options": [
+      "Sa tête, ses mains et ses pieds",
+      "Son chapeau et ses bras",
+      "Son torse et ses jambes",
+      "Ses bras et sa tête"
+    ],
+    "reponse": "1"
+  },
+  {
+    "question": "Que fait Nami pour empêcher Baggy de revenir au combat ?",
+    "options": [
+      "Elle appelle les villageois en renfort",
+      "Elle cache ses trésors",
+      "Elle ligote ses morceaux restants",
+      "Elle détruit ses armes"
+    ],
+    "reponse": "3"
+  },
+  {
+    "question": "Pourquoi Luffy veut-il expédier Baggy dans les cieux ?",
+    "options": [
+      "Pour protéger le maire",
+      "Pour impressionner Nami",
+      "Pour récupérer la carte de Grand Line",
+      "Pour l’éloigner définitivement"
+    ],
+    "reponse": "4"
+  }
+]
