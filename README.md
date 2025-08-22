@@ -27,12 +27,6 @@ AMQuiz-Project.zip
 ├── fluttertest/              # Application Flutter
 ├── AMQuizBackEnd/            # Backend Node.js
 ├── Documentation-Bloc2/      # Documents écrits pour le Bloc 2
-│   ├── Rapport-Technique.pdf
-│   ├── Documentation-API.pdf
-│   └── Guide-Utilisation.pdf
-└── README.md                 # Ce fichier
-```
-
 ---
 
 ## 🚀 Installation et lancement
@@ -130,10 +124,8 @@ npm start
 node src/app.js
 ```
 
-Le serveur sera accessible sur : `http://localhost:3000`
+Le serveur sera accessible sur : l'url serveur que vous renseignerait, soit le back depolyé sur render, soit en local.
 
-### 🔧 Variables d'environnement
-Assurez-vous que le fichier `config/serviceAccountKey.json` (Firebase) est présent dans le ZIP.
 
 ### 📡 Endpoints disponibles
 - `GET /` - Page d'accueil
@@ -146,22 +138,6 @@ Assurez-vous que le fichier `config/serviceAccountKey.json` (Firebase) est prés
 
 ## 🧪 Tests unitaires
 
-### 🧪 Tests Frontend (Flutter)
-```bash
-# Naviguez vers le dossier Flutter
-cd fluttertest
-
-# Lancez tous les tests
-flutter test
-
-# Tests spécifiques à l'accessibilité
-flutter test test/accessibility_test.dart
-
-# Tests avec coverage
-flutter test --coverage
-```
-
-### 🧪 Tests Backend (Node.js)
 ```bash
 # Naviguez vers le dossier backend
 cd AMQuizBackEnd
@@ -175,13 +151,6 @@ npm test
 # Tests avec coverage
 npm run test:coverage
 ```
-
-### 📊 Rapports de tests
-Les rapports de couverture sont générés dans :
-- Flutter : `coverage/lcov.info`
-- Node.js : `coverage/`
-
----
 
 ## 📦 Fichiers de configuration
 
@@ -203,11 +172,6 @@ Les fichiers de configuration Firebase sont déjà inclus dans le ZIP et configu
 
 ## 📚 Documentation
 
-### 📖 Documentation complète (dans le ZIP)
-- **Rapport Technique** : Architecture et choix techniques
-- **Documentation API** : Endpoints et utilisation
-- **Guide d'utilisation** : Manuel utilisateur
-- **Documentation d'accessibilité** : Tests et conformité
 
 ### 🎯 Fonctionnalités principales
 - ✅ **Authentification** Firebase Auth
@@ -241,12 +205,6 @@ flutter pub get
 flutter run
 ```
 
-### 3️⃣ Testez l'application
-- Créez un compte ou connectez-vous
-- Explorez les différents modes de jeu
-- Testez les fonctionnalités multijoueur
-
----
 
 ## 🤝 Développement
 
@@ -264,26 +222,3 @@ flutter run --verbose
 # Backend debug
 npm run dev  # Si script configuré
 ```
-
----
-
-## 📞 Support
-
-Pour toute question concernant l'installation ou l'utilisation :
-1. Consultez la documentation complète dans le ZIP
-2. Vérifiez les logs d'erreur
-3. Assurez-vous que tous les prérequis sont installés
-
----
-
-## 📄 Licence
-
-Ce projet est développé dans le cadre du **Bloc 2** - Formation Développement Mobile.
-
-**Auteur** : [Votre nom]  
-**Date** : [Date actuelle]  
-**Version** : 1.0.0
-
----
-
-> 💡 **Conseil** : Utilisez toujours le fichier ZIP pour une installation complète et fonctionnelle du projet.
